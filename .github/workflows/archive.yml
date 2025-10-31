@@ -1,0 +1,43 @@
+name: Tumblr Post Archiver
+
+on:
+  schedule:
+    # runs daily at 5:30 utc
+    - cron: '30 5 * * *'
+  workflow_dispatch:
+    # allows running this workflow manually from the actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # install both requests (for api calls) and python-dotenv (for the import)
+          pip install requests python-dotenv
+
+      - name: Run Tumblr Archiver
+        env:
+          TUMBLR_API_KEY: ${{ secrets.TUMBLR_API_KEY }}
+          BLOG_IDENTIFIER: ${{ vars.BLOG_IDENTIFIER }}
+          TAGS_TO_ARCHIVE: ${{ vars.TAGS_TO_ARCHIVE }}
+        run: python post_archiver.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # add all new/changed files, including those in the new 'blogs' directory
+          git add -A
+          # only commit and push if files have actually changed
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated archive update [$(date +'%Y-%m-%d %H:%M:%S utc')]"; git push)
