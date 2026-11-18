@@ -8,6 +8,14 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/053f0c44c75066728764f839905e8e07/3b7c0c3811136540-85/s1280x1920/2a2a26a0899636242c4c586d479974c98517dd1e.pnj": {
+  "key": "wildwizardcreation-1/756627240563965953/2a2a26a0899636242c4c586d479974c98517dd1e.pnj",
+  "post": "756627240563965953",
+  "bytes": 136153,
+  "sha256": "ad8cd1e221618645942863c8c817510c9042a7d1314b43817234f3ff8654a27b",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/05d03023d469cca68624d056d85ac567/f4f6aad668453b53-f5/s2048x3072/6f6ecd0fcf28fa4ed2dbe27e4ff491fbbedefef4.pnj": {
   "key": "wildwizardcreation-1/745883178047291392/6f6ecd0fcf28fa4ed2dbe27e4ff491fbbedefef4.pnj",
   "post": "745883178047291392",
@@ -16,6 +24,14 @@
   "status": "ok",
   "mirrored": "2026-11-17",
   "source": "manual"
+ },
+ "https://64.media.tumblr.com/060e67ad6b8f8539444c7ab4affc062e/5eccc0820c460e58-fd/s2048x3072/2a743d12762bdaad1d1ce9375a46d355740920e4.pnj": {
+  "key": "wildwizardcreation-1/767563750929743872/2a743d12762bdaad1d1ce9375a46d355740920e4.pnj",
+  "post": "767563750929743872",
+  "bytes": 502190,
+  "sha256": "dd699feb40ba1dfa43251ae2d63324ce8214c3b68cf8d1b5f81e4438c8dd1ea4",
+  "status": "ok",
+  "mirrored": "2026-11-18"
  },
  "https://64.media.tumblr.com/06caaeefe53fb22209281db6f8d44952/352138ae03a654a9-dd/8cdc6d4509644791ce62c09d4543b355e476053e.mp3": {
   "key": "wildwizardcreation-1/756393086287069184/8cdc6d4509644791ce62c09d4543b355e476053e.mp3",
@@ -26,6 +42,54 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/09b1bf8ee5ebfc0d3c642c81a781fbfd/b69280e0f11e2d80-0f/s640x960/76f25a4427d9ac5ee9937be9ada6c5b80fa7b117.pnj": {
+  "key": "wildwizardcreation-1/768113312731971584/76f25a4427d9ac5ee9937be9ada6c5b80fa7b117.pnj",
+  "post": "768113312731971584",
+  "bytes": 79565,
+  "sha256": "ef795110dfa96b5c72c05928b40afad15906b0b1e4eb7f4723826664ea4b05c1",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/09f636e7002e1deb41d35ebb5b89bbf8/9f5efd76eccfcef6-bf/s1280x1920/9b6594afaeda08bae7d1078330c8df6e51941cef.pnj": {
+  "key": "wildwizardcreation-1/755600908738494464/9b6594afaeda08bae7d1078330c8df6e51941cef.pnj",
+  "post": "755600908738494464",
+  "bytes": 132485,
+  "sha256": "66dc9d6c167eb9b5fdac4eae6e997e29a793fdeef8c3bdcb0d472850add7ce06",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/09f7c0430e30b931cecb27d3e4f2db8a/26b0c518bcec25bd-3d/s1280x1920/dfb0e6e92164592917a5f1ae4e57d41b6825adb8.pnj": {
+  "key": "wildwizardcreation-1/756775200321880064/dfb0e6e92164592917a5f1ae4e57d41b6825adb8.pnj",
+  "post": "756775200321880064",
+  "bytes": 69951,
+  "sha256": "53036032b38404434731ce97853a419cbeb5194a6fbbef1a30b030aa8a404572",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/09f7c0430e30b931cecb27d3e4f2db8a/3b7c0c3811136540-f1/s1280x1920/63a1e2b232e62a7d469f962bb1a5df1a9dfd8e86.pnj": {
+  "key": "wildwizardcreation-1/756627240563965953/63a1e2b232e62a7d469f962bb1a5df1a9dfd8e86.pnj",
+  "post": "756627240563965953",
+  "bytes": 69951,
+  "sha256": "53036032b38404434731ce97853a419cbeb5194a6fbbef1a30b030aa8a404572",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/0b79203cdc64240f71e1f65cfb22fe96/7b918ef2b8a1bc2b-37/s1280x1920/c77ffa59b4da0bdb04b1a56a419885bd577a6718.pnj": {
+  "key": "wildwizardcreation-1/756900186143522817/c77ffa59b4da0bdb04b1a56a419885bd577a6718.pnj",
+  "post": "756900186143522817",
+  "bytes": 107925,
+  "sha256": "8db07d293d968279685700ef18ee0470a75d3c0b29dc1523dd513471ed90cedc",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/0c32dd3e2ef3d80a868e04a3e31295e6/95475e01d17ae2ac-04/s500x750/f00df03af2bf3b742d5766945b139ab6c2377fc1.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/f00df03af2bf3b742d5766945b139ab6c2377fc1.pnj",
+  "post": "756639317355642880",
+  "bytes": 40174,
+  "sha256": "1fbc9c750e788bb3201e57546f8a3aaf1a5563c703ee422d604870212ff78ede",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/0d594bb3411e9b67bdd6988e44896dfd/4bba9a386443ab2f-83/s1280x1920/5c48e55e71cf8eea7703c8f29c4fddec11747b5e.pnj": {
   "key": "wildwizardcreation-1/756571784699084800/5c48e55e71cf8eea7703c8f29c4fddec11747b5e.pnj",
   "post": "756571784699084800",
@@ -35,6 +99,14 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/0e59910121c9a3bae2b80be0230cc24e/95475e01d17ae2ac-5c/s500x750/ec71b0064a3965bca157791ee93fddf1c6de2390.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/ec71b0064a3965bca157791ee93fddf1c6de2390.pnj",
+  "post": "756639317355642880",
+  "bytes": 36635,
+  "sha256": "305847923e5ebe079355c2d41fd2d6a70f3fc1ec5987bada91bacb44b0359088",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/0ec4260130453229757d9ad3b5a9724d/f87d7adcc46692d2-df/s2048x3072/817a07ff7685ca246d7174bf6f4be8a209ce7aec.pnj": {
   "key": "wildwizardcreation-1/754412886264315904/817a07ff7685ca246d7174bf6f4be8a209ce7aec.pnj",
   "post": "754412886264315904",
@@ -43,6 +115,38 @@
   "status": "ok",
   "mirrored": "2026-11-17",
   "source": "manual"
+ },
+ "https://64.media.tumblr.com/0f785ed9703e7c9ca5ebcb52f086f2d9/188e222999da574b-27/s540x810/a1f5021fb281b10ade56a0917f930c322a959abf.pnj": {
+  "key": "wildwizardcreation-1/767911136885702656/a1f5021fb281b10ade56a0917f930c322a959abf.pnj",
+  "post": "767911136885702656",
+  "bytes": 51584,
+  "sha256": "eaca87ff23b599e254469fe913b23f2ba23340d2d87c78501e29cd2e2e0560c0",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/0f7d9f93b37918dd3c2e44321e509f5c/f79a6f7ca6471049-47/s540x810/c405eaa569b536f3a851718e02fa68d951374627.pnj": {
+  "key": "wildwizardcreation-1/757434720119357440/c405eaa569b536f3a851718e02fa68d951374627.pnj",
+  "post": "757434720119357440",
+  "bytes": 45716,
+  "sha256": "829abeb65a1d26cd3e4149412493d1cf28c63c1af02041d1b829d9d5406c1680",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/0fb7e91215e15b95ce04255f5ee8edd3/982091f5aed3a46f-52/s500x750/58bc2708603884d1e554fd8b8dd2bba57dd71a74.pnj": {
+  "key": "wildwizardcreation-1/760676501936111616/58bc2708603884d1e554fd8b8dd2bba57dd71a74.pnj",
+  "post": "760676501936111616",
+  "bytes": 38781,
+  "sha256": "cfdec88cb60d417f7d09d55a46b1b8612a3b0bb25faf40d3369bc83547857310",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/0fc61e2a6865de837bcafb6849fadcc5/95475e01d17ae2ac-24/s500x750/c37438353e46c7c67fcbf059352e54fb13efd7a2.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/c37438353e46c7c67fcbf059352e54fb13efd7a2.pnj",
+  "post": "756639317355642880",
+  "bytes": 36301,
+  "sha256": "f90f939fc9bb89c07d8b1d1001a1fce855a03ebc9f07098c6b2ec5949a5a1501",
+  "status": "ok",
+  "mirrored": "2026-11-18"
  },
  "https://64.media.tumblr.com/11aa270026f2558cfeea9a6163e32ce8/2169c4f9f6476387-91/s540x810/ff4e594c2635838c11d3d7102879ce1ffc12b5d7.pnj": {
   "key": "wildwizardcreation-1/760126842960330752/ff4e594c2635838c11d3d7102879ce1ffc12b5d7.pnj",
@@ -71,6 +175,46 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/150f1abea102e2ba4c7e7a0c72850024/3ce35e7b1cb5f656-12/s540x810/9568d7a0a608bbe81389358c40d89a58b5bb1d9e.pnj": {
+  "key": "wildwizardcreation-1/756864110787018752/9568d7a0a608bbe81389358c40d89a58b5bb1d9e.pnj",
+  "post": "756864110787018752",
+  "bytes": 40523,
+  "sha256": "fd69a3708071791690ff76749513d660c9a62d80f73f3807bd383e7a034c7ceb",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/155b7ecead9c58ab1aafee7604e7cb88/29d2e5ecb213bf0c-87/s400x600/65cc5733eefd1e5f4937399a77bbe310128ab201.gifv": {
+  "key": "wildwizardcreation-1/741876631118987264/65cc5733eefd1e5f4937399a77bbe310128ab201.gifv",
+  "post": "741876631118987264",
+  "bytes": 4087,
+  "sha256": "0b511092b3dca737bcfd4a3bc03ade9ec3c663172635a88c7e5c07b11e4d18db",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/17a5c3c97e5ba685afa0eaa9bcb95c44/29d2e5ecb213bf0c-31/s400x600/37c873222a3f13389d44a5d1c7b2d3494f8f13b8.gifv": {
+  "key": "wildwizardcreation-1/741876631118987264/37c873222a3f13389d44a5d1c7b2d3494f8f13b8.gifv",
+  "post": "741876631118987264",
+  "bytes": 9315,
+  "sha256": "b57e1f8d1dfac8db11c1d5e9ce7c75c1d82ec09f19a556a19d063313f5ae4c2c",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/17c9dab139ef57aa6180e361b51d7773/7b918ef2b8a1bc2b-d7/s1280x1920/4bf41e516001d9fcc98d5f97b4e79a7eae44cce5.pnj": {
+  "key": "wildwizardcreation-1/756900186143522817/4bf41e516001d9fcc98d5f97b4e79a7eae44cce5.pnj",
+  "post": "756900186143522817",
+  "bytes": 94213,
+  "sha256": "18022b61a965054e4c2a77f5d72a08dbf834d6801046bbd6b8906e798fc143b7",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/1841059abe9610cd7d36381177f391df/9f5efd76eccfcef6-16/s1280x1920/ba8626c12c0e1bd6d5f63237b616f009b5cbb2e1.pnj": {
+  "key": "wildwizardcreation-1/755600908738494464/ba8626c12c0e1bd6d5f63237b616f009b5cbb2e1.pnj",
+  "post": "755600908738494464",
+  "bytes": 134824,
+  "sha256": "e889b80a4420ecffd31bb95306ed55d46ea14074755acb3d2bca96f0b0d09307",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/19dbd886c67c4617b2ff49e186d83da0/2a59318d1687ad81-16/s1280x1920/c284979ee2c7c061d0f40be3f5f16bdd66246cf3.pnj": {
   "key": "wildwizardcreation-1/753211852758122496/c284979ee2c7c061d0f40be3f5f16bdd66246cf3.pnj",
   "post": "753211852758122496",
@@ -79,6 +223,118 @@
   "status": "ok",
   "mirrored": "2026-11-17",
   "source": "manual"
+ },
+ "https://64.media.tumblr.com/1e2334984e16fce91ba46626cde98155/7f014da34cb47efb-7b/s1280x1920/4699e2d7312096db51f90c454d8547151ee6a4ee.pnj": {
+  "key": "wildwizardcreation-1/756758090079141888/4699e2d7312096db51f90c454d8547151ee6a4ee.pnj",
+  "post": "756758090079141888",
+  "bytes": 161275,
+  "sha256": "6e2c7454842625fb72950efdbf5b813b938a505816127d0c814d1c025fe6c744",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/1fa4685dc278f622dc0590eb1144bbe3/53b7b02dae4dde62-e5/s1280x1920/172432882c598cce418c53cf49d7f45c5bff9f52.pnj": {
+  "key": "wildwizardcreation-1/755153763755556864/172432882c598cce418c53cf49d7f45c5bff9f52.pnj",
+  "post": "755153763755556864",
+  "bytes": 38785,
+  "sha256": "99097e49f883b33e01ee0f26899ca2458f7abb4efded9875feb09717cf1b1bbd",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/2c4491accd9015b36093555e4f72bebc/3b7c0c3811136540-e9/s1280x1920/4c1cb4b63c81e1fe7a519749a4cd361b0b29f57b.pnj": {
+  "key": "wildwizardcreation-1/756627240563965953/4c1cb4b63c81e1fe7a519749a4cd361b0b29f57b.pnj",
+  "post": "756627240563965953",
+  "bytes": 173249,
+  "sha256": "c928d655d52f10921ab5277c702516730e567ed27c5dd05bb06e2596001ec28c",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/2d04b2e93278d0dcd0e3c2f6d37e46ee/8cced212ac0adc6d-ef/s1280x1920/16dd9d607fb7d1345676d37d948b9da94ed0d67d.pnj": {
+  "key": "wildwizardcreation-1/759283098443825152/16dd9d607fb7d1345676d37d948b9da94ed0d67d.pnj",
+  "post": "759283098443825152",
+  "bytes": 104816,
+  "sha256": "8061eba0482dfa25ae5ee72558de6bc9f416f3ef6d0e1dbaed83991974829f21",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/2f222df4ce8992f184ab067536035638/95475e01d17ae2ac-6f/s540x810/927ec48f8c0d6db445814589496d3e6d3e96ed46.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/927ec48f8c0d6db445814589496d3e6d3e96ed46.pnj",
+  "post": "756639317355642880",
+  "bytes": 39588,
+  "sha256": "5fcba826cebae1bb85dc4d94461f3851a5dfa4df615d4d696c86cbd04bd051e0",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/2fbaada9e8c8de9049e4c3c6df4e2a71/f79a6f7ca6471049-c8/s1280x1920/04a700c3c060b89c8891487bfa92721031952753.pnj": {
+  "key": "wildwizardcreation-1/757434720119357440/04a700c3c060b89c8891487bfa92721031952753.pnj",
+  "post": "757434720119357440",
+  "bytes": 187242,
+  "sha256": "5c3780bf9d352fba940c9deb65de1e762647bc14f83b13e47aabb5410d6a5173",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/3170d7e606a765f94d41b724cbadc527/3b7c0c3811136540-81/s1280x1920/9c3a1dcb1b8e67bc6c8a9fd69fb54172cea16b15.pnj": {
+  "key": "wildwizardcreation-1/756627240563965953/9c3a1dcb1b8e67bc6c8a9fd69fb54172cea16b15.pnj",
+  "post": "756627240563965953",
+  "bytes": 104066,
+  "sha256": "4c6048f5e1bb3a3e532c8a3ac05086d4a2fb844c2a0c8515ba6787b5778a8ad8",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/35198729a4f6752526025b37cae474d6/982091f5aed3a46f-d0/s540x810/d56bcffef5990580c5deafc0df5dcd7a6fad5c11.pnj": {
+  "key": "wildwizardcreation-1/760676501936111616/d56bcffef5990580c5deafc0df5dcd7a6fad5c11.pnj",
+  "post": "760676501936111616",
+  "bytes": 44784,
+  "sha256": "ced10391a9c7794b80780f3e74e06d4b786118b28146c928d781c8b6f6f91eb8",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/3d780eac3ce549561e354dc6580676ee/9f5efd76eccfcef6-fc/s1280x1920/73c5ba46fbc2179729293eff234f88e6c57c4f26.pnj": {
+  "key": "wildwizardcreation-1/755600908738494464/73c5ba46fbc2179729293eff234f88e6c57c4f26.pnj",
+  "post": "755600908738494464",
+  "bytes": 238125,
+  "sha256": "6564f59e5b64ddb9225b2ed3c7abcbac9e87960251753da86343289eb880d96a",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/3ff6640df08194c6aa40cbdb0f11ada2/3b7c0c3811136540-2a/s1280x1920/232807b92ba8213930e81eeded4be760ffdb6c51.pnj": {
+  "key": "wildwizardcreation-1/756627240563965953/232807b92ba8213930e81eeded4be760ffdb6c51.pnj",
+  "post": "756627240563965953",
+  "bytes": 85964,
+  "sha256": "220316903561e2052dee4c1fd8ae0243671784f2c83cbd7c97f379cc28a110d1",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/3ff6640df08194c6aa40cbdb0f11ada2/7f014da34cb47efb-1a/s1280x1920/3d0e27bedbcd906401c0fef5c09a27a2b9f6dffe.pnj": {
+  "key": "wildwizardcreation-1/756758090079141888/3d0e27bedbcd906401c0fef5c09a27a2b9f6dffe.pnj",
+  "post": "756758090079141888",
+  "bytes": 85964,
+  "sha256": "220316903561e2052dee4c1fd8ae0243671784f2c83cbd7c97f379cc28a110d1",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/45d1201f3f1ca0b8f94016ce298f9c6c/4e4f87f07f0633f1-6e/s540x810/be5dc9a055b6b40e2f9d2e8e9a31a86085aee22b.pnj": {
+  "key": "wildwizardcreation-1/765758256476012544/be5dc9a055b6b40e2f9d2e8e9a31a86085aee22b.pnj",
+  "post": "765758256476012544",
+  "bytes": 35065,
+  "sha256": "799cdd663d3dd93a1e2d787215e1134e7bec86c519274dffc0750e081408aaf2",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/46fceb3f9c530a2b835fce1c92b7eda6/54123273e719202e-4a/s540x810/db2976ebc5f47a8dc2ac26465f6e0dbcb695ee88.pnj": {
+  "key": "wildwizardcreation-1/748425584503406592/db2976ebc5f47a8dc2ac26465f6e0dbcb695ee88.pnj",
+  "post": "748425584503406592",
+  "bytes": 45450,
+  "sha256": "f3fcbecdc9793dc7ab5cb1fe0b78697a3fb3976d322d5ceeeb5d7868d4d38011",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/471bdfb46bea246883ab09d42d7c9022/188e222999da574b-b2/s400x600/478de48f3af22e70ddbf8babc4f97a6e0a43ca35.pnj": {
+  "key": "wildwizardcreation-1/767911136885702656/478de48f3af22e70ddbf8babc4f97a6e0a43ca35.pnj",
+  "post": "767911136885702656",
+  "bytes": 20712,
+  "sha256": "168442a05bd4170fcd77d4a29ff257cd79787340240971f9e68647baa2113ae8",
+  "status": "ok",
+  "mirrored": "2026-11-18"
  },
  "https://64.media.tumblr.com/479bb39d90c6d8584b2735f6719eb723/75e776f56b9a566a-f1/s1280x1920/79dc9b4a39970e1c5c6c1bfac35a8e2496e3c9fb.pnj": {
   "key": "wildwizardcreation-1/746166888920481793/79dc9b4a39970e1c5c6c1bfac35a8e2496e3c9fb.pnj",
@@ -89,6 +345,38 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/4aa72a9ddb454c83ae687ced96c00aec/3ce35e7b1cb5f656-54/s540x810/6744fca6fd21c21794bf45380d6f11d0e2b7580e.pnj": {
+  "key": "wildwizardcreation-1/756864110787018752/6744fca6fd21c21794bf45380d6f11d0e2b7580e.pnj",
+  "post": "756864110787018752",
+  "bytes": 44077,
+  "sha256": "4c844a30b5d3dba3b3dd1d8d3992fbb23fb3f1413394bf53de024f72817994df",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/4b6e7cabe60850bd43ecaffe8f81fde9/3ce35e7b1cb5f656-9f/s540x810/208493b7f3915bf9ff1f53eb91005ab92154c192.pnj": {
+  "key": "wildwizardcreation-1/756864110787018752/208493b7f3915bf9ff1f53eb91005ab92154c192.pnj",
+  "post": "756864110787018752",
+  "bytes": 43637,
+  "sha256": "c3a9bc54b14af920c3a82dc2be8a889fe2352047184ac347ba8624281323793c",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/4d9817f87701156cc075154041f85379/95475e01d17ae2ac-46/s500x750/b1f9d692367e5c066cf55181c9e3b424f2bb2aec.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/b1f9d692367e5c066cf55181c9e3b424f2bb2aec.pnj",
+  "post": "756639317355642880",
+  "bytes": 35542,
+  "sha256": "678caf75ac3537ca5b8f3fe606f0a94182675514c77fb9677864b58366ec954c",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/4e447c11706a6db862849d5692127385/4e4f87f07f0633f1-34/s540x810/e7994e031cda8d9712054ca1a804e93be5e1b110.pnj": {
+  "key": "wildwizardcreation-1/765758256476012544/e7994e031cda8d9712054ca1a804e93be5e1b110.pnj",
+  "post": "765758256476012544",
+  "bytes": 73897,
+  "sha256": "b4a3a110c08a4ab717918c7f7bcc72710c803237b005b0c7794d508bdc5d6c6c",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/50c1e2f4d4408a78ca22a2b7b83b94b0/bd1d7b7a75b10b6c-0d/s500x750/e31e1f3714a6cad6cacbf1f092ff92b50d754dea.pnj": {
   "key": "wildwizardcreation-1/755580310060744704/e31e1f3714a6cad6cacbf1f092ff92b50d754dea.pnj",
   "post": "755580310060744704",
@@ -98,6 +386,78 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/52688d314f686c02d504bcf8193c8615/95475e01d17ae2ac-3e/s500x750/c7217f8e8183cca5cb634108a191b377d3e28dd9.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/c7217f8e8183cca5cb634108a191b377d3e28dd9.pnj",
+  "post": "756639317355642880",
+  "bytes": 38751,
+  "sha256": "39d9d679bb8c5b65967c6300b9d67898d4e4b29d85e2118cc35126cd3724a6b9",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/5324ed539f19008a89c56c7fb5f85350/0ab45b83249c8810-ef/s2048x3072/7737b2e255685b00e0046fafc426e9b2163ec233.pnj": {
+  "key": "wildwizardcreation-1/767754102865281024/7737b2e255685b00e0046fafc426e9b2163ec233.pnj",
+  "post": "767754102865281024",
+  "bytes": 341949,
+  "sha256": "f493e2408dbeb754c56ce97f735b2b4fdac5968b12f5325bb51f624967d6c919",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/536105ab414c1fa195ef237a61229533/29d2e5ecb213bf0c-9e/s400x600/3e26f4fc2d98f0695795b35fb9aade529bb0f557.gifv": {
+  "key": "wildwizardcreation-1/741876631118987264/3e26f4fc2d98f0695795b35fb9aade529bb0f557.gifv",
+  "post": "741876631118987264",
+  "bytes": 7888,
+  "sha256": "d641296c1ed1a4204021553cf42574b5fb1db77afa7c01a42f310744e445e1b3",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/544a32246ced66f3bbe5ab16aea48e82/cd141f93e9f2e36b-a1/s1280x1920/b75d7b88b998e4f25043252222cb832226f7e5a7.pnj": {
+  "key": "wildwizardcreation-1/764566137216417792/b75d7b88b998e4f25043252222cb832226f7e5a7.pnj",
+  "post": "764566137216417792",
+  "bytes": 19954,
+  "sha256": "35a1d53f8c9fecb7c29d6e60a2a6a09576ab5301c60f412f110946cd6cec4008",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/5464adc60d2f562d1c786a8af52af1eb/29d2e5ecb213bf0c-59/s2048x3072/041732e7f065395d7ba232ec0bb8a41384ebbf6b.pnj": {
+  "key": "wildwizardcreation-1/741876631118987264/041732e7f065395d7ba232ec0bb8a41384ebbf6b.pnj",
+  "post": "741876631118987264",
+  "bytes": 94762,
+  "sha256": "6932cde96d0f8fd4caa2c858824ad01fc21509984edc240e10a8b0a6c5f7a59c",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/5579a6418eed98a926fde81cfdeddc9e/188e222999da574b-19/s2048x3072/e7faf504a0e49e89d8d3a1af56ed9c135d01824f.pnj": {
+  "key": "wildwizardcreation-1/767911136885702656/e7faf504a0e49e89d8d3a1af56ed9c135d01824f.pnj",
+  "post": "767911136885702656",
+  "bytes": 326588,
+  "sha256": "74cc6743375d5422ee9687bd978480a7789d18f5861a08abab8fea630e3a2c49",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/56112ae96511b6216976200176b2dc91/95475e01d17ae2ac-1a/s540x810/2118a0f169cfca9f4e3e3b86c3c1eb094c941964.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/2118a0f169cfca9f4e3e3b86c3c1eb094c941964.pnj",
+  "post": "756639317355642880",
+  "bytes": 41781,
+  "sha256": "382935e29c1379418fd29a0580b7567d702de8a75d4dd1ceffe4f9bd49b64d8a",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/56a4ce3c0b73c3fe01eb11cf4df86326/ab328037bcaa6102-b3/s1280x1920/30b60b6a2644c8e790626a872e38be845d827765.pnj": {
+  "key": "wildwizardcreation-1/764242962984091649/30b60b6a2644c8e790626a872e38be845d827765.pnj",
+  "post": "764242962984091649",
+  "bytes": 252413,
+  "sha256": "a7398f4721a93518e94b34226c1fcb1fe276ad785d65b70594184a7906b962d0",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/5a13e054b3f862d2a6184d3d91df1c74/590058dc6b2e632f-aa/s1280x1920/c0d769810835964b0bec18ba73ced9a6bbfe4e17.pnj": {
+  "key": "wildwizardcreation-1/754308219681259520/c0d769810835964b0bec18ba73ced9a6bbfe4e17.pnj",
+  "post": "754308219681259520",
+  "bytes": 67149,
+  "sha256": "fad3f1828165fa650a46eb233f9461f95c5fa31805c9d90393caf7b7c7b00711",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/5cdf2af8801ee61d4c474e96d001ef41/f87d7adcc46692d2-15/s2048x3072/11db5452d80ac9e14f3f57ad4123b40fb8c85497.pnj": {
   "key": "wildwizardcreation-1/754412886264315904/11db5452d80ac9e14f3f57ad4123b40fb8c85497.pnj",
   "post": "754412886264315904",
@@ -106,6 +466,38 @@
   "status": "ok",
   "mirrored": "2026-11-17",
   "source": "manual"
+ },
+ "https://64.media.tumblr.com/61973d42edd2f1066d5225705e02bae3/7b918ef2b8a1bc2b-1a/s1280x1920/ce6c6a78682fe39938bfcd5060a9cb7134a57edf.pnj": {
+  "key": "wildwizardcreation-1/756900186143522817/ce6c6a78682fe39938bfcd5060a9cb7134a57edf.pnj",
+  "post": "756900186143522817",
+  "bytes": 100030,
+  "sha256": "6408686ae01d3763e29845256a3c0be717c86b35ae0d6eb15e125b03d8d5cbd6",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/61ac09d4fc2e5d70b3804bf1ffe53438/3b7c0c3811136540-56/s1280x1920/7f1fa6c406490c089e16e9c315865a4c93f2457c.pnj": {
+  "key": "wildwizardcreation-1/756627240563965953/7f1fa6c406490c089e16e9c315865a4c93f2457c.pnj",
+  "post": "756627240563965953",
+  "bytes": 158264,
+  "sha256": "fa83ee9e36490770b97ba9f3b31fccd8539fa276bfdfcfce35029e73238c4d22",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/64a260a7788e5eee0eda4fe99b483201/8cced212ac0adc6d-46/s1280x1920/b30dc03082022a7ed979c4e6c683f1d3cca8645c.pnj": {
+  "key": "wildwizardcreation-1/759283098443825152/b30dc03082022a7ed979c4e6c683f1d3cca8645c.pnj",
+  "post": "759283098443825152",
+  "bytes": 100070,
+  "sha256": "99b706a94df422feb39a52d9b7b1a80de86c34b0538e5c8407c6b3fb7e2636cb",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/6761ed29243da0d328860d625125e863/982091f5aed3a46f-9a/s540x810/1032749c57bd077ae19fff8abb99954841dd03f4.pnj": {
+  "key": "wildwizardcreation-1/760676501936111616/1032749c57bd077ae19fff8abb99954841dd03f4.pnj",
+  "post": "760676501936111616",
+  "bytes": 46872,
+  "sha256": "f2e732b404a0a89ee288242cf422fc01ca15b40248cdf87986067fb969be7dc2",
+  "status": "ok",
+  "mirrored": "2026-11-18"
  },
  "https://64.media.tumblr.com/6bf579e2783e5adca4c292357ae8c67b/f4f6aad668453b53-ef/s1280x1920/9eb5a637b8fbf39b05f75c458bbfbefe7c765e39.pnj": {
   "key": "wildwizardcreation-1/745883178047291392/9eb5a637b8fbf39b05f75c458bbfbefe7c765e39.pnj",
@@ -125,6 +517,22 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/70ffc6a5925d775876f2930adfbe8b32/188e222999da574b-a7/s400x600/d72926c1e91a537c26b897b5f314a86425e1464b.pnj": {
+  "key": "wildwizardcreation-1/767911136885702656/d72926c1e91a537c26b897b5f314a86425e1464b.pnj",
+  "post": "767911136885702656",
+  "bytes": 22663,
+  "sha256": "080644e47de6fb62fe3cc77b2281f32b49bf2ed4c7f7e9552fa06e7f99184638",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/745d545179596ad68bc8b8c791545909/7b918ef2b8a1bc2b-12/s1280x1920/81e373853b914095d494205bc40f558ff7ec97fe.pnj": {
+  "key": "wildwizardcreation-1/756900186143522817/81e373853b914095d494205bc40f558ff7ec97fe.pnj",
+  "post": "756900186143522817",
+  "bytes": 86564,
+  "sha256": "1797fb34fddb40c2af946bf8d1a797cf3102ae599d14fe779d60c00f0f570847",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/7634bbd0a21a2e1f65e46338285ef0cf/e6022c119539dadd-40/s540x810/3a0d374183611187e2d018a87e41a2e139a60292.pnj": {
   "key": "wildwizardcreation-1/757005808047407104/3a0d374183611187e2d018a87e41a2e139a60292.pnj",
   "post": "757005808047407104",
@@ -133,6 +541,14 @@
   "status": "ok",
   "mirrored": "2026-11-17",
   "source": "manual"
+ },
+ "https://64.media.tumblr.com/775fa2f098703ef1d4181d15c212fe7a/7f014da34cb47efb-59/s1280x1920/80edcb24f90db87ac48e68d1ff3245f1f99981dc.pnj": {
+  "key": "wildwizardcreation-1/756758090079141888/80edcb24f90db87ac48e68d1ff3245f1f99981dc.pnj",
+  "post": "756758090079141888",
+  "bytes": 169215,
+  "sha256": "d8e9ef39c360daac9b54b98849d0e7e23e409a81b552742efbabf1de0725950e",
+  "status": "ok",
+  "mirrored": "2026-11-18"
  },
  "https://64.media.tumblr.com/7788145edd08e2355ca9ee3e75490ac1/b22308fc53a52d84-8c/s1280x1920/e5e0d17a950d01ed4acb7ab1d7ee50600538ae1e.pnj": {
   "key": "wildwizardcreation-1/754637604965810176/e5e0d17a950d01ed4acb7ab1d7ee50600538ae1e.pnj",
@@ -143,6 +559,46 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/7b7ddb63ab3984a984bb584227942775/95475e01d17ae2ac-5d/s540x810/7a2b0d6996f72e7f309c51a42a841b91e7ba2dd2.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/7a2b0d6996f72e7f309c51a42a841b91e7ba2dd2.pnj",
+  "post": "756639317355642880",
+  "bytes": 46855,
+  "sha256": "a53a5f72a51b0194e10c6f2fea937e840642c2bc2509ff87eead55dbaeee8a15",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/813c4836e3ea67702e764e1b39500978/d3a4cf6ccda472a2-35/s1280x1920/7f84b63f9c966bb82abe93e661de42d225a81b4f.jpg": {
+  "key": "wildwizardcreation-1/763918816331825152/7f84b63f9c966bb82abe93e661de42d225a81b4f.jpg",
+  "post": "763918816331825152",
+  "bytes": 246049,
+  "sha256": "1b6f20acafe176cd0e08417c4c220aceb85a8dcbc2cdb896bea27d41e318e39b",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/82649e418d9215078d15c9ffcb65d995/3b7c0c3811136540-f9/s1280x1920/3500a635c8a0232376a404846dc05ef930e46f37.pnj": {
+  "key": "wildwizardcreation-1/756627240563965953/3500a635c8a0232376a404846dc05ef930e46f37.pnj",
+  "post": "756627240563965953",
+  "bytes": 114747,
+  "sha256": "acc962efb42eb371c10aff3a2388bac7bee7ba4a7492531b5db66c2f6a8ab6df",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/83e29b917b75bb72e5b1361168f4177a/982091f5aed3a46f-ad/s540x810/51d93d2d6a66a9a25062dd70f33dff8815b470fa.pnj": {
+  "key": "wildwizardcreation-1/760676501936111616/51d93d2d6a66a9a25062dd70f33dff8815b470fa.pnj",
+  "post": "760676501936111616",
+  "bytes": 39616,
+  "sha256": "34f81988921272cfd171e515580fb732e01e5b1736720057fd902ccb23aecc3d",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/8514331ddd63d8d8f2ccb793170e2607/9f5efd76eccfcef6-be/s1280x1920/eb5938c05db606b57fabc45f9a491afc30a7ca12.pnj": {
+  "key": "wildwizardcreation-1/755600908738494464/eb5938c05db606b57fabc45f9a491afc30a7ca12.pnj",
+  "post": "755600908738494464",
+  "bytes": 132700,
+  "sha256": "48ae057508c762c236d462d3d90d668d67fdeb83ef5a654deea45fa7fc23f2e1",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/8520867809b2248a9ef37d310fc62f10/ecbe8406a62a7b69-8c/s1280x1920/ad2effa16eb4fac592f4155396c5368cbffa1e34.pnj": {
   "key": "wildwizardcreation-1/764927748790779904/ad2effa16eb4fac592f4155396c5368cbffa1e34.pnj",
   "post": "764927748790779904",
@@ -152,6 +608,54 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/8802c29d7947bc2cbf1c2bc54ff48c32/188e222999da574b-b0/s2048x3072/1f5e46f3d8d874523976e1b90c99cc70798ca82e.pnj": {
+  "key": "wildwizardcreation-1/767911136885702656/1f5e46f3d8d874523976e1b90c99cc70798ca82e.pnj",
+  "post": "767911136885702656",
+  "bytes": 334486,
+  "sha256": "b1482dbf60276b5200c9cff1ccda635c9be5df2f8bf0f381c7561957abf3b21b",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/8a063114102eb6a6c53622bbb282ea6c/7f014da34cb47efb-6a/s1280x1920/295107b63cbe054ae250026a29e1a3b6456af1e7.pnj": {
+  "key": "wildwizardcreation-1/756758090079141888/295107b63cbe054ae250026a29e1a3b6456af1e7.pnj",
+  "post": "756758090079141888",
+  "bytes": 104544,
+  "sha256": "7686c4fea03877daf8a4071f3b3cc0766801ab05a2c8e1ed196951f42af49907",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/8aca8112a642c64d72ca5133c34ef22a/3ce35e7b1cb5f656-7b/s540x810/8e1fb89d4e5e1898e341aeb02eec28524bc29266.pnj": {
+  "key": "wildwizardcreation-1/756864110787018752/8e1fb89d4e5e1898e341aeb02eec28524bc29266.pnj",
+  "post": "756864110787018752",
+  "bytes": 44057,
+  "sha256": "c0549e2f9c28ca0f48ff2a5801e43ae62ae8a529faa7acd3ff9b08e39f6e0721",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/8d0c316a2d746ac882a57e2a371f08d8/2864fa8a5a34a6aa-5d/s640x960/1bd871a49eb325c22cc6e1bb2de5531de9e7921b.pnj": {
+  "key": "wildwizardcreation-1/762885405227008000/1bd871a49eb325c22cc6e1bb2de5531de9e7921b.pnj",
+  "post": "762885405227008000",
+  "bytes": 92829,
+  "sha256": "9777f902ba29bb6d27d7db52f7c29253f7c37792f717ac0e8c0deaaa719e5a47",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/8e18bd8248e6452ed06c5957dce82c24/46b4841cca203cd2-64/s1280x1920/a62bae28bbb1e1a8c0214d9a60eae93281de67ec.pnj": {
+  "key": "wildwizardcreation-1/762905280459800577/a62bae28bbb1e1a8c0214d9a60eae93281de67ec.pnj",
+  "post": "762905280459800577",
+  "bytes": 133893,
+  "sha256": "65ceb6def76c4338edb6a2abd942b84943f78274a62ac41068df60abc771b03b",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/8fac88c06242f87f1e774c74887a5222/5717e3de6e7336dc-b2/s1280x1920/7b3e1be62e5575e0ba9e14f8b5fae95ff217856f.pnj": {
+  "key": "wildwizardcreation-1/763899457394917376/7b3e1be62e5575e0ba9e14f8b5fae95ff217856f.pnj",
+  "post": "763899457394917376",
+  "bytes": 53292,
+  "sha256": "d3e95385fe6356cef78c3ca736c61375f2c9f521f66c068c9447fab1dd1efe2a",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/960d4b6a6108dab7e94381e7e8aa2950/1a8a37fb3308a636-39/s400x600/2c2e7acbc8b36c39a6e6a1f3cf0f55a9c85b2f20.pnj": {
   "key": "wildwizardcreation-1/751418487869669376/2c2e7acbc8b36c39a6e6a1f3cf0f55a9c85b2f20.pnj",
   "post": "751418487869669376",
@@ -160,6 +664,30 @@
   "status": "ok",
   "mirrored": "2026-11-17",
   "source": "manual"
+ },
+ "https://64.media.tumblr.com/9d37a0ca4f9ab7e5f0bb7328a838a6b3/f79a6f7ca6471049-e0/s1280x1920/b5606f9e8dfe8b76dbf0553797422f6f2f25c66c.pnj": {
+  "key": "wildwizardcreation-1/757434720119357440/b5606f9e8dfe8b76dbf0553797422f6f2f25c66c.pnj",
+  "post": "757434720119357440",
+  "bytes": 183618,
+  "sha256": "a6048d91d5962564dfd1f74e25cac29be4828c2e0e253e306b360f980d201ff6",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/a27065e2004c8f932d60147aeb5b86de/f79a6f7ca6471049-b0/s1280x1920/34f6fd7ba98217d4d033e3e1740fee97063bedc2.pnj": {
+  "key": "wildwizardcreation-1/757434720119357440/34f6fd7ba98217d4d033e3e1740fee97063bedc2.pnj",
+  "post": "757434720119357440",
+  "bytes": 128832,
+  "sha256": "3313f32a35e6260048924c71ffc608b850c75c8c80e36adeb1bd456501b79286",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/a552bf2adf76fff49bb7af230d2be020/8e336be9e3a7a4ae-11/s2048x3072/f2def01b8c4fbccdd949d69fdf9c49d67682c01b.pnj": {
+  "key": "wildwizardcreation-1/765790945508786176/f2def01b8c4fbccdd949d69fdf9c49d67682c01b.pnj",
+  "post": "765790945508786176",
+  "bytes": 157606,
+  "sha256": "6aab875295ac5910cf2e11d77c256ceb4f50ef3b67528841ba52b79c6fe4e07e",
+  "status": "ok",
+  "mirrored": "2026-11-18"
  },
  "https://64.media.tumblr.com/a5b0b94ebc9d1232eb55508f8c069973/662e440eb383a5cb-f7/s540x810/8002a739e76a460b0c0cc241c42b225947783cc9.jpg": {
   "key": "wildwizardcreation-1/754778286961442816/8002a739e76a460b0c0cc241c42b225947783cc9.jpg",
@@ -179,6 +707,14 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/ab5dd3c7f75c37cb917c451beea27d94/29d2e5ecb213bf0c-4c/s400x600/beb477a71b952025c7f9ef88a6ea938c34455357.gifv": {
+  "key": "wildwizardcreation-1/741876631118987264/beb477a71b952025c7f9ef88a6ea938c34455357.gifv",
+  "post": "741876631118987264",
+  "bytes": 9468,
+  "sha256": "a9bcc519741a161f581af235baee65137070c5470a3e612dd8be541a314e5ac4",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/ac934e91a109d300a8f438f65118dd15/d26a1c05d3c9260a-46/s2048x3072/2bce9461de9a9f4b8729f0645d74a07fa27b9228.pnj": {
   "key": "wildwizardcreation-1/767534147459842048/2bce9461de9a9f4b8729f0645d74a07fa27b9228.pnj",
   "post": "767534147459842048",
@@ -187,6 +723,30 @@
   "status": "ok",
   "mirrored": "2026-11-17",
   "source": "manual"
+ },
+ "https://64.media.tumblr.com/ada2b2b07ec402fb67ec6f100a2f42d7/54123273e719202e-ad/s540x810/c49ac6b549793749f6ce2252cd319354a0e6c27d.pnj": {
+  "key": "wildwizardcreation-1/748425584503406592/c49ac6b549793749f6ce2252cd319354a0e6c27d.pnj",
+  "post": "748425584503406592",
+  "bytes": 45895,
+  "sha256": "658514e5f3033eca57fe61bea10899a985d45e48ddd410c8d144079dee468b3d",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/aff5a1792a0ee7649a1c1760dc2cdc15/9f5efd76eccfcef6-34/s1280x1920/4e09f2c0f169cfbdd656af1a09ebdbdf1ab01f95.pnj": {
+  "key": "wildwizardcreation-1/755600908738494464/4e09f2c0f169cfbdd656af1a09ebdbdf1ab01f95.pnj",
+  "post": "755600908738494464",
+  "bytes": 227863,
+  "sha256": "942dbb0faa885f022e3b984dfcce684eea17bee291230f8955d93298f3d1d104",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/b024850c3a57470f7730743d04994fa8/53b7b02dae4dde62-dc/s1280x1920/191f5cefd43a67c0f7667d809f2e994b964971a6.pnj": {
+  "key": "wildwizardcreation-1/755153763755556864/191f5cefd43a67c0f7667d809f2e994b964971a6.pnj",
+  "post": "755153763755556864",
+  "bytes": 38785,
+  "sha256": "99097e49f883b33e01ee0f26899ca2458f7abb4efded9875feb09717cf1b1bbd",
+  "status": "ok",
+  "mirrored": "2026-11-18"
  },
  "https://64.media.tumblr.com/b048d1212c2af3bb5c3b043bdcdb48f9/e6022c119539dadd-7c/s540x810/c036741bab4a54fe59a74ddbe2b3cf4db469896d.pnj": {
   "key": "wildwizardcreation-1/757005808047407104/c036741bab4a54fe59a74ddbe2b3cf4db469896d.pnj",
@@ -206,6 +766,54 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/b38bac7934468f2b19b77f9805e7a744/95475e01d17ae2ac-59/s500x750/2b050b87dd3e3e571a98cea653653a636b7b9293.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/2b050b87dd3e3e571a98cea653653a636b7b9293.pnj",
+  "post": "756639317355642880",
+  "bytes": 30433,
+  "sha256": "1786571993d67fe1795a5f5a0764b3856b90e69b6f8f716d53bc3550a2626c01",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/b504bdd43eaceb2f2292b8946f0ab0bf/188e222999da574b-d9/s640x960/a19b111c2f860dbffc466fc3a754a1477eea97c5.pnj": {
+  "key": "wildwizardcreation-1/767911136885702656/a19b111c2f860dbffc466fc3a754a1477eea97c5.pnj",
+  "post": "767911136885702656",
+  "bytes": 62773,
+  "sha256": "7fa977a49a08e277873400c889024602a056ea959b2c643c16d132ea9fa147a2",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/b51a056174e30821c3d4c9491ff90b20/4886eecda23e8e34-00/s1280x1920/2fa74f561dbe1bd27c605ea91c2bf0025077928d.pnj": {
+  "key": "wildwizardcreation-1/755632481350385664/2fa74f561dbe1bd27c605ea91c2bf0025077928d.pnj",
+  "post": "755632481350385664",
+  "bytes": 27951,
+  "sha256": "c38e82e644ad031d381d5552a9840e2cf1e193642e3b7ec0aefb1ff6d86608aa",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/b82fe6216713b80c7af5ce810dab5095/982091f5aed3a46f-47/s500x750/f0bdfadec7630fe1249258cf4bb5a1d452a150f4.pnj": {
+  "key": "wildwizardcreation-1/760676501936111616/f0bdfadec7630fe1249258cf4bb5a1d452a150f4.pnj",
+  "post": "760676501936111616",
+  "bytes": 30447,
+  "sha256": "274b6b75d03c80df48e4fe8057450287609202be62ee653f666deca644df6046",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/b8faa7829731a8a396c69cab36827195/982091f5aed3a46f-c2/s500x750/7bd84adf07d711ab43ef60c2f6e0f44059f9dc56.pnj": {
+  "key": "wildwizardcreation-1/760676501936111616/7bd84adf07d711ab43ef60c2f6e0f44059f9dc56.pnj",
+  "post": "760676501936111616",
+  "bytes": 36324,
+  "sha256": "1f0b2c5e217099d8fb6e987f41a736bec7ee416053cabb304ec1f15e3c018eed",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/bc75a2aed88126af279b613494d7f553/53b7b02dae4dde62-99/s2048x3072/6688530214c17cf2604f013ce32dbc96a4532126.pnj": {
+  "key": "wildwizardcreation-1/755153763755556864/6688530214c17cf2604f013ce32dbc96a4532126.pnj",
+  "post": "755153763755556864",
+  "bytes": 13729,
+  "sha256": "cc75203634e1e05aec79a6bd774a92ae2e2a9fdf46076a64eacad1148941623d",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/be47e9fb47dc51691772fc7526c35c31/bea7b67f5316f8ca-65/s2048x3072/d398d33b284fd801be2d986c946bd7e4de51b698.pnj": {
   "key": "wildwizardcreation-1/765024085583495168/d398d33b284fd801be2d986c946bd7e4de51b698.pnj",
   "post": "765024085583495168",
@@ -214,6 +822,14 @@
   "status": "ok",
   "mirrored": "2026-11-17",
   "source": "manual"
+ },
+ "https://64.media.tumblr.com/bf0125176a4205f76ebcaaa9064d4f02/188e222999da574b-25/s540x810/c267130f790f483f1f5a818ec43356127295504b.pnj": {
+  "key": "wildwizardcreation-1/767911136885702656/c267130f790f483f1f5a818ec43356127295504b.pnj",
+  "post": "767911136885702656",
+  "bytes": 47690,
+  "sha256": "0035f3b84f55a5b110d2887e37ee58368b70c4f08e169f1d99f1984122cc6e53",
+  "status": "ok",
+  "mirrored": "2026-11-18"
  },
  "https://64.media.tumblr.com/bf0558e0e3cdf8837ef190868a255d24/4674b5d9c1f4fa5d-0a/s1280x1920/103c9db8b179d43ec242a22f110cd12f52edca2f.jpg": {
   "key": "wildwizardcreation-1/757761578263281664/103c9db8b179d43ec242a22f110cd12f52edca2f.jpg",
@@ -233,6 +849,30 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/c01a6abdab4853f4e3a4df1a1dde4585/89e926ad8a227819-e0/s1280x1920/2d3d3899f16da524b8d508202ebc441df7eff0d1.pnj": {
+  "key": "wildwizardcreation-1/752736347569127424/2d3d3899f16da524b8d508202ebc441df7eff0d1.pnj",
+  "post": "752736347569127424",
+  "bytes": 167940,
+  "sha256": "8043bd70b00cc11e1ad9779d6b049002bdff7d35c28db2c4934d4cb2b3a58ea3",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/c14db7bdf286416e2ff2c8423d86e560/b69280e0f11e2d80-6d/s640x960/e8c5466b9fd32a3b65e0a4fa2abd7b25500ada16.pnj": {
+  "key": "wildwizardcreation-1/768113312731971584/e8c5466b9fd32a3b65e0a4fa2abd7b25500ada16.pnj",
+  "post": "768113312731971584",
+  "bytes": 86615,
+  "sha256": "4408b82dc72df81b0194b9ee506000ebfe708fbe0183439a7cb86bd407aa403e",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/c3199b2c2c0a70a3519ec46121ec346b/7f014da34cb47efb-37/s1280x1920/dbae2b152101b992d0081c0947e56d67821f9b80.pnj": {
+  "key": "wildwizardcreation-1/756758090079141888/dbae2b152101b992d0081c0947e56d67821f9b80.pnj",
+  "post": "756758090079141888",
+  "bytes": 96224,
+  "sha256": "5fe01448337b9ff999f86093451e17edaf1c6c25b77d425e2269d66ffe085a78",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/c3f4b9134424052deab33cad398b4715/0d3619af552fd672-29/s2048x3072/d20676947a882728a34fbde8bd6bfc257d674574.pnj": {
   "key": "wildwizardcreation-1/760699131450753024/d20676947a882728a34fbde8bd6bfc257d674574.pnj",
   "post": "760699131450753024",
@@ -242,6 +882,62 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/c66dc1363e4742ed7202ae707c25388b/3b7c0c3811136540-00/s1280x1920/113428ff3111efbf327e5fb6b62a907cac2fa615.pnj": {
+  "key": "wildwizardcreation-1/756627240563965953/113428ff3111efbf327e5fb6b62a907cac2fa615.pnj",
+  "post": "756627240563965953",
+  "bytes": 103763,
+  "sha256": "fc82152302222c6460a04fd15f76c99c03b212a207241c500a768471c5b10fc5",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/cdb0042fd64efea0aa7917971cad2840/f79a6f7ca6471049-c8/s540x810/33d10904e3acbc8f20290c4c0368414b2a789d4a.pnj": {
+  "key": "wildwizardcreation-1/757434720119357440/33d10904e3acbc8f20290c4c0368414b2a789d4a.pnj",
+  "post": "757434720119357440",
+  "bytes": 42737,
+  "sha256": "af4f17ad1a6199004470f6f3b230105048412d7e0a5ee299a55d4bae846a6a84",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/d0992b595590831964c0f7517ffd8dd3/c17d89e4ccb0dbb9-d3/s2048x3072/b9b01aa9e08b93b4ada909b3b4c2fe142c06e8ba.pnj": {
+  "key": "wildwizardcreation-1/757298274700050432/b9b01aa9e08b93b4ada909b3b4c2fe142c06e8ba.pnj",
+  "post": "757298274700050432",
+  "bytes": 89653,
+  "sha256": "de32e0ca127738d3810d93cf63979f2bb200856a99bd2ebaaf7ead3932f271f5",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/d27d221c82e3b16433052a18dcf8f256/89e926ad8a227819-31/s1280x1920/c7bb188d4a05cae5befa3c7c25c46a07c55e94bc.pnj": {
+  "key": "wildwizardcreation-1/752736347569127424/c7bb188d4a05cae5befa3c7c25c46a07c55e94bc.pnj",
+  "post": "752736347569127424",
+  "bytes": 138432,
+  "sha256": "f1bfb06542a3412f16e9cd26ea3187a17c94eb1b8e2730e36d573606e23a33b9",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/d4ece72345231fbdd64df14d4440f5d7/867ac1f7b5600ddd-b1/s1280x1920/f8622617033cbf2b5916486fc02bf70b205bc744.pnj": {
+  "key": "wildwizardcreation-1/757657198755184640/f8622617033cbf2b5916486fc02bf70b205bc744.pnj",
+  "post": "757657198755184640",
+  "bytes": 187233,
+  "sha256": "7fb47f9b206a93405cfc83cf129a7fb52859b0946ecf5d527ab8d247c379f44a",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/d641fdb5ac17be01e25d8b83df2fd66f/95475e01d17ae2ac-61/s540x810/6a73b2f059bb65603b07979ad11a6fa152ec16f7.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/6a73b2f059bb65603b07979ad11a6fa152ec16f7.pnj",
+  "post": "756639317355642880",
+  "bytes": 43342,
+  "sha256": "45836601d5c31acbce24f99ef283896d888352392ee2d21748f25b685eea02be",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/d649a7dd41357ee5dce46f41e51977af/3de441dcc92a91bf-11/s1280x1920/06ee9b05084cd58518cf1e418761de5644f3ede0.pnj": {
+  "key": "wildwizardcreation-1/751544180682178560/06ee9b05084cd58518cf1e418761de5644f3ede0.pnj",
+  "post": "751544180682178560",
+  "bytes": 70033,
+  "sha256": "7be39db51f33a534bba2402cb47bfb59686bc01081920281c93a5b632f1b4100",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/d904d6eb8da276250984715f2b4c2192/e6022c119539dadd-c8/s540x810/270e3ac8aad5bb82c1aacef7c3e571ef05eac8e4.pnj": {
   "key": "wildwizardcreation-1/757005808047407104/270e3ac8aad5bb82c1aacef7c3e571ef05eac8e4.pnj",
   "post": "757005808047407104",
@@ -250,6 +946,30 @@
   "status": "ok",
   "mirrored": "2026-11-17",
   "source": "manual"
+ },
+ "https://64.media.tumblr.com/dba31ba478ebb8c1e2463758307bc4f2/89e926ad8a227819-5a/s1280x1920/aca092d317bc1eca7e49ecb4630ba86b60917d62.pnj": {
+  "key": "wildwizardcreation-1/752736347569127424/aca092d317bc1eca7e49ecb4630ba86b60917d62.pnj",
+  "post": "752736347569127424",
+  "bytes": 162272,
+  "sha256": "a5f61b65e17c9c126ac6f2964f91b4d18896629a4e979781d15c8ea355d157cc",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/dc4fcaec87e94aac0da012962710d83e/4e4f87f07f0633f1-9a/s540x810/c35cd06d42c5fef6fb22143eb71d693f10bdcb9a.pnj": {
+  "key": "wildwizardcreation-1/765758256476012544/c35cd06d42c5fef6fb22143eb71d693f10bdcb9a.pnj",
+  "post": "765758256476012544",
+  "bytes": 140044,
+  "sha256": "456a8219ff8a49a23a87b20045ffc93162ac5915c2b26b432129234adde06137",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/dd5e92c375f88c6a8ba209379ee42bc4/7f014da34cb47efb-3e/s1280x1920/ba5102cc50a32092ef75044dac9918129dfec44a.pnj": {
+  "key": "wildwizardcreation-1/756758090079141888/ba5102cc50a32092ef75044dac9918129dfec44a.pnj",
+  "post": "756758090079141888",
+  "bytes": 121293,
+  "sha256": "68e6da6998bb342e37d56ca57c2b41999188634d2481a8c2e21f5095eba55586",
+  "status": "ok",
+  "mirrored": "2026-11-18"
  },
  "https://64.media.tumblr.com/df67e114b514707e6303452a104deca6/0a405e5d92098ee7-41/s540x810/2c1fab2ccd715a59ba0824581d8eda61e9e4c0ec.jpg": {
   "key": "wildwizardcreation-1/768348940806619136/2c1fab2ccd715a59ba0824581d8eda61e9e4c0ec.jpg",
@@ -269,6 +989,14 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/e1c1b1c6cf9a00982cfb284d4f76cf0f/9f5efd76eccfcef6-2d/s1280x1920/181a8dba7b79f38a0daef840578b802db6f0697a.pnj": {
+  "key": "wildwizardcreation-1/755600908738494464/181a8dba7b79f38a0daef840578b802db6f0697a.pnj",
+  "post": "755600908738494464",
+  "bytes": 126405,
+  "sha256": "2289fc1c87d0dbefc474785136902f19440e4b5936df7d9c3991a371a1b6ec2b",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/e52e0720ec31624e63308cf0b7161fef/352138ae03a654a9-69/s540x810/c6ff49014c06ff18de65162c27db18d19299d0fc.jpg": {
   "key": "wildwizardcreation-1/756393086287069184/c6ff49014c06ff18de65162c27db18d19299d0fc.jpg",
   "post": "756393086287069184",
@@ -286,6 +1014,54 @@
   "status": "ok",
   "mirrored": "2026-11-17",
   "source": "manual"
+ },
+ "https://64.media.tumblr.com/e80024650711dc512bae2bb87a745b51/8cced212ac0adc6d-55/s1280x1920/65a24badbedc787041f7408c756a2b267f002f41.pnj": {
+  "key": "wildwizardcreation-1/759283098443825152/65a24badbedc787041f7408c756a2b267f002f41.pnj",
+  "post": "759283098443825152",
+  "bytes": 102799,
+  "sha256": "7049865e51f7b107c6601c3f49cae52c644de91b56f99e5be5a143c82661b282",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/ebdcdd39a61ff16af30ac23959bc9ce4/b69280e0f11e2d80-a2/s640x960/2b40f67913d287575c3c635bce295e4e1f5b8519.pnj": {
+  "key": "wildwizardcreation-1/768113312731971584/2b40f67913d287575c3c635bce295e4e1f5b8519.pnj",
+  "post": "768113312731971584",
+  "bytes": 87017,
+  "sha256": "2e76b50e6913fd8c39ed8735c28f273714da599410c45309913e6125fa69d2e5",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/eced9fda010724ffad3dd1d9c0fbeda2/89e926ad8a227819-c2/s1280x1920/95a853f26f095f74e6eb88fc5a0b1662f12067f7.pnj": {
+  "key": "wildwizardcreation-1/752736347569127424/95a853f26f095f74e6eb88fc5a0b1662f12067f7.pnj",
+  "post": "752736347569127424",
+  "bytes": 122139,
+  "sha256": "6b7db2c94ebe7fd293c71d7f243091266791cc17a04dc9d27a2eadb644d1e38b",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/eea461cbab6f753f6c5baa1110c04721/9f5efd76eccfcef6-1d/s1280x1920/316a911898f23478c395081d12e301c382caabb7.pnj": {
+  "key": "wildwizardcreation-1/755600908738494464/316a911898f23478c395081d12e301c382caabb7.pnj",
+  "post": "755600908738494464",
+  "bytes": 231428,
+  "sha256": "daf82cbdcbeafb0f99f0bcfc7b6217e8d93c2e516b76283fcf73f33ade29d5c1",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/ef2965d1d7e1d964ccc96bd030805b76/f79a6f7ca6471049-7d/s1280x1920/223623e8bb9ce4864c1759f2aeb139e5f5af071f.pnj": {
+  "key": "wildwizardcreation-1/757434720119357440/223623e8bb9ce4864c1759f2aeb139e5f5af071f.pnj",
+  "post": "757434720119357440",
+  "bytes": 146406,
+  "sha256": "63b9116209542a9ceeb27e93153766a5f623ff97cbb96ba2d1b4fbb8c076366c",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/f0c361e24badd96b853887ae730ec902/9f5efd76eccfcef6-3c/s1280x1920/ecda41a4d06c2ccfa7c2f6325d768a864f671e6b.pnj": {
+  "key": "wildwizardcreation-1/755600908738494464/ecda41a4d06c2ccfa7c2f6325d768a864f671e6b.pnj",
+  "post": "755600908738494464",
+  "bytes": 239656,
+  "sha256": "f404e6b84bf163fd3bb5c85573f1871341ba8d2a59151e89a1964f9fa5ceae0c",
+  "status": "ok",
+  "mirrored": "2026-11-18"
  },
  "https://64.media.tumblr.com/f1014a55302ba59b426f479272e3f643/bdf148d535deada2-5e/s540x810/72e94d2f848138c085d5410044e9c2ba3525fdb2.jpg": {
   "key": "wildwizardcreation-1/758946859824840704/72e94d2f848138c085d5410044e9c2ba3525fdb2.jpg",
@@ -305,6 +1081,30 @@
   "mirrored": "2026-11-17",
   "source": "manual"
  },
+ "https://64.media.tumblr.com/f3279dedafdbc67046e8c4aa02a231ce/188e222999da574b-e0/s640x960/d09f31e3e38a2646167d879ebbe4c7d3569ceafa.pnj": {
+  "key": "wildwizardcreation-1/767911136885702656/d09f31e3e38a2646167d879ebbe4c7d3569ceafa.pnj",
+  "post": "767911136885702656",
+  "bytes": 63129,
+  "sha256": "96b378bb4f7cef4d885ada31be224c63708650473646b3daca66fd0f20093005",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/f33c3d4341cb05eb6291e1bfb552f603/b69280e0f11e2d80-dd/s640x960/e3e9017d6a7a934de6057f249a58ce21a4637a69.pnj": {
+  "key": "wildwizardcreation-1/768113312731971584/e3e9017d6a7a934de6057f249a58ce21a4637a69.pnj",
+  "post": "768113312731971584",
+  "bytes": 78911,
+  "sha256": "5d467f205cf6972d7bb40961eda4cb85dd4a470db8d23b6e24afe41304345135",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/f37f106ef88da5bf07c5264154b167f2/6dce6e128bc4ca04-9b/s1280x1920/2fd5ac16271557e60b4dfb59f7980de499d4358b.pnj": {
+  "key": "wildwizardcreation-1/759998948533485568/2fd5ac16271557e60b4dfb59f7980de499d4358b.pnj",
+  "post": "759998948533485568",
+  "bytes": 111876,
+  "sha256": "c63b8e21e84b645cb75c28097e69a3941053b4c19751d3c09bdec365fcb344e6",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
  "https://64.media.tumblr.com/f5e6657fc0aac221c2ebe85c331c7ef5/3854459f8c16c7bc-99/s1280x1920/bf20cfee2955e048e8196a27c7e1f8c0dd5207e0.pnj": {
   "key": "wildwizardcreation-1/759166823434502144/bf20cfee2955e048e8196a27c7e1f8c0dd5207e0.pnj",
   "post": "759166823434502144",
@@ -313,6 +1113,22 @@
   "status": "ok",
   "mirrored": "2026-11-17",
   "source": "manual"
+ },
+ "https://64.media.tumblr.com/f7f9fc9ca78a6a5a3b634bc6dd8359d7/95475e01d17ae2ac-49/s540x810/777cfe6cccda952914c654ada9d341c36cbc65b6.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/777cfe6cccda952914c654ada9d341c36cbc65b6.pnj",
+  "post": "756639317355642880",
+  "bytes": 44766,
+  "sha256": "b2184cdc7e0acfe706ea47aecc9bb52fac705b1c73d0e6d8648b03c31fd87ba3",
+  "status": "ok",
+  "mirrored": "2026-11-18"
+ },
+ "https://64.media.tumblr.com/f9b54fe6d148bb094ebc41bdfadf883c/95475e01d17ae2ac-7f/s500x750/311a98f9d1d35bec47dd392c71af4a32b3acf015.pnj": {
+  "key": "wildwizardcreation-1/756639317355642880/311a98f9d1d35bec47dd392c71af4a32b3acf015.pnj",
+  "post": "756639317355642880",
+  "bytes": 33666,
+  "sha256": "8ee32e3af2f746953abcefaad61fba930c5addc4e5f4b25ce2c6ae3294d13b22",
+  "status": "ok",
+  "mirrored": "2026-11-18"
  },
  "https://64.media.tumblr.com/tumblr_se6jk7rQUL1a2h1ag_frame1.jpg": {
   "key": "wildwizardcreation-1/751695713440808961/tumblr_se6jk7rQUL1a2h1ag_frame1.jpg",

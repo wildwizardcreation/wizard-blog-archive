@@ -1,0 +1,145 @@
+{
+ "type": "blocks",
+ "original_type": "note",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 793713758272995328,
+ "id_string": "793713758272995328",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/793713758272995328",
+ "slug": "i-was-super-excited-to-find-out-you-made-a",
+ "date": "2025-09-04 00:07:05 GMT",
+ "timestamp": 1756944425,
+ "state": "published",
+ "reblog_key": "73hCaH9r",
+ "tags": [
+  "+ anons +",
+  "+ site stuff +",
+  "<- for the muters i say",
+  "i also have plans for a site feedback form next to my hater feedback form!!",
+  "which shoulddd be much sooner than later now that a tiny bit of a workflow is in place >:3"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNi3rdKtCy00",
+ "summary": "I was super excited to find out you made a gallery, but it just loads forever for me. I've even tried different browsers,...",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 5,
+ "asking_name": "Anonymous",
+ "asking_url": null,
+ "content": [
+  {
+   "type": "text",
+   "text": "I was super excited to find out you made a gallery, but it just loads forever for me. I've even tried different browsers, disabling adblock, the works. Weird as it is to say, I hope it's a problem with the site and not my computer because between you and me you're the only one skilled enough to fix it and you definitely can't fix my computer."
+  },
+  {
+   "type": "text",
+   "text": "Well."
+  },
+  {
+   "type": "text",
+   "text": "I don't THINK you're that kind of wizard, at least"
+  },
+  {
+   "type": "text",
+   "text": "dw dw anon! fortunately it's (mostly likely) not ur computer! trying to get the gallery working across the board has been a tricky back and forth between me being a lazy dick (refusing to pay for a server + refusing to learn docker/react/vue) and balancing the amount of image files I'm trying to shove into the page (via cloudflare r2 objects (bruh)) 😭 so it was bound to break at some point"
+  },
+  {
+   "type": "text",
+   "text": "i'll probably roll the method i'm using back to a slightly less performant but consistently working version until i can confirm it works 100% of the time :] ty for letting me know anon!!"
+  }
+ ],
+ "layout": [
+  {
+   "type": "ask",
+   "blocks": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "type": "rows",
+   "display": [
+    {
+     "blocks": [
+      0
+     ]
+    },
+    {
+     "blocks": [
+      1
+     ]
+    },
+    {
+     "blocks": [
+      2
+     ]
+    },
+    {
+     "blocks": [
+      3
+     ]
+    },
+    {
+     "blocks": [
+      4
+     ]
+    }
+   ]
+  }
+ ],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1761915540
+}

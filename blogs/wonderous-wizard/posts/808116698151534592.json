@@ -1,0 +1,132 @@
+{
+ "type": "blocks",
+ "original_type": "note",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 808116698151534592,
+ "id_string": "808116698151534592",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/808116698151534592",
+ "slug": "hi-i-recently-did-some-drawing-practice-using",
+ "date": "2026-02-09 23:35:39 GMT",
+ "timestamp": 1770680139,
+ "state": "published",
+ "reblog_key": "AG4nipOz",
+ "tags": [
+  "+ anons +",
+  "ty for asking btw!! <3",
+  "my work is free to repost anywhere with or without credits!",
+  "but if youve used it in a transformative way or as a ref i ALWAYS love to see the finished product :D"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNit0ThwOa00",
+ "summary": "Hi! I recently did some drawing practice, using one of your sfw drawings of Scar as a reference. Would you mind if I post it to...",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 3,
+ "asking_name": "Anonymous",
+ "asking_url": null,
+ "content": [
+  {
+   "type": "text",
+   "text": "Hi! I recently did some drawing practice, using one of your sfw drawings of Scar as a reference. Would you mind if I post it to my (sfw) art blog? I can credit you or tag you (or if you don’t want to be tagged, please let me know too!), of course!!"
+  },
+  {
+   "type": "text",
+   "text": "Sorry if this ask is unnecessary lol, I don’t know how to go about posting art (studies?) where I used someone else’s artwork as a reference ",
+   "formatting": [
+    {
+     "type": "small",
+     "start": 0,
+     "end": 141
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "hello hello!! feel free to post it anywhere anon :D while tagging me isn't required it's super appreciated! (i'd love to see your work!! \\o/)"
+  }
+ ],
+ "layout": [
+  {
+   "type": "ask",
+   "blocks": [
+    0,
+    1
+   ]
+  },
+  {
+   "type": "rows",
+   "display": [
+    {
+     "blocks": [
+      0
+     ]
+    },
+    {
+     "blocks": [
+      1
+     ]
+    },
+    {
+     "blocks": [
+      2
+     ]
+    }
+   ]
+  }
+ ],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1770705660
+}

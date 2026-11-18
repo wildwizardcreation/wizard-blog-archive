@@ -1,0 +1,275 @@
+{
+ "type": "blocks",
+ "original_type": "regular",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 827943415132061696,
+ "id_string": "827943415132061696",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/827943415132061696",
+ "slug": "sometimes-when-im-depressed-i-like-to-go-read-the",
+ "date": "2026-09-16 19:52:50 GMT",
+ "timestamp": 1789588370,
+ "state": "published",
+ "reblog_key": "5EBdaugi",
+ "tags": [
+  "+ casting +",
+  "+ scrolls +",
+  "+ succession +",
+  "Kendall Roy is extremely important to me and I still haven't entirely pinpointed why but ooooo I'm gonna figure it out soon",
+  "(right after I buy the physical script books. my computer can only scroll the pdf so fast)"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNjzSYP14W00",
+ "summary": "sometimes when I'm depressed I like to go read the succession season 2 scripts and immediately get so much worse",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 6,
+ "content": [
+  {
+   "type": "text",
+   "text": "sometimes when I'm depressed I like to go read the succession season 2 scripts and immediately get so much worse"
+  },
+  {
+   "type": "image",
+   "media": [
+    {
+     "media_key": "fbff55db1e5450c63053ad61ff8398c3:9fdc2c2be37970f6-4f",
+     "type": "image/png",
+     "width": 693,
+     "height": 73,
+     "url": "https://64.media.tumblr.com/fbff55db1e5450c63053ad61ff8398c3/9fdc2c2be37970f6-4f/s1280x1920/a135a08019b94ec596010f8b4a615098d600b137.png",
+     "has_original_dimensions": true
+    },
+    {
+     "media_key": "fbff55db1e5450c63053ad61ff8398c3:9fdc2c2be37970f6-4f",
+     "type": "image/png",
+     "width": 640,
+     "height": 67,
+     "url": "https://64.media.tumblr.com/fbff55db1e5450c63053ad61ff8398c3/9fdc2c2be37970f6-4f/s640x960/37420ab2658ac681118df022e2d9eb68cff8dfd5.png"
+    },
+    {
+     "media_key": "fbff55db1e5450c63053ad61ff8398c3:9fdc2c2be37970f6-4f",
+     "type": "image/png",
+     "width": 540,
+     "height": 57,
+     "url": "https://64.media.tumblr.com/fbff55db1e5450c63053ad61ff8398c3/9fdc2c2be37970f6-4f/s540x810/7a76a0ecd9271dfb6bbe652446ac534d9f58fa9e.png"
+    },
+    {
+     "media_key": "fbff55db1e5450c63053ad61ff8398c3:9fdc2c2be37970f6-4f",
+     "type": "image/png",
+     "width": 500,
+     "height": 53,
+     "url": "https://64.media.tumblr.com/fbff55db1e5450c63053ad61ff8398c3/9fdc2c2be37970f6-4f/s500x750/6f9b94f37cbf529f7e7986e97dd011d4d9811682.png"
+    },
+    {
+     "media_key": "fbff55db1e5450c63053ad61ff8398c3:9fdc2c2be37970f6-4f",
+     "type": "image/png",
+     "width": 400,
+     "height": 42,
+     "url": "https://64.media.tumblr.com/fbff55db1e5450c63053ad61ff8398c3/9fdc2c2be37970f6-4f/s400x600/039dd163194545fcb2e5fd262998b06a5ccb1db9.png"
+    },
+    {
+     "media_key": "fbff55db1e5450c63053ad61ff8398c3:9fdc2c2be37970f6-4f",
+     "type": "image/png",
+     "width": 250,
+     "height": 26,
+     "url": "https://64.media.tumblr.com/fbff55db1e5450c63053ad61ff8398c3/9fdc2c2be37970f6-4f/s250x400/cb9d739469288e27e57cf05113b03721fb9abbc9.png"
+    },
+    {
+     "media_key": "fbff55db1e5450c63053ad61ff8398c3:9fdc2c2be37970f6-4f",
+     "type": "image/png",
+     "width": 100,
+     "height": 11,
+     "url": "https://64.media.tumblr.com/fbff55db1e5450c63053ad61ff8398c3/9fdc2c2be37970f6-4f/s100x200/889dbcd6041b89eb5b50c08056a521fc9d25a624.png"
+    },
+    {
+     "media_key": "fbff55db1e5450c63053ad61ff8398c3:9fdc2c2be37970f6-4f",
+     "type": "image/png",
+     "width": 75,
+     "height": 73,
+     "url": "https://64.media.tumblr.com/fbff55db1e5450c63053ad61ff8398c3/9fdc2c2be37970f6-4f/s75x75_c1/c5e4c59d8cbc226e233d233c7f702e8b05ebc269.png",
+     "cropped": true
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "media": [
+    {
+     "media_key": "de3d8f9ca28c2bab80d7dc0862ae264f:9fdc2c2be37970f6-38",
+     "type": "image/png",
+     "width": 398,
+     "height": 206,
+     "url": "https://64.media.tumblr.com/de3d8f9ca28c2bab80d7dc0862ae264f/9fdc2c2be37970f6-38/s400x600/b56a7501004148a9d596c279630972540e565010.png",
+     "has_original_dimensions": true
+    },
+    {
+     "media_key": "de3d8f9ca28c2bab80d7dc0862ae264f:9fdc2c2be37970f6-38",
+     "type": "image/png",
+     "width": 250,
+     "height": 129,
+     "url": "https://64.media.tumblr.com/de3d8f9ca28c2bab80d7dc0862ae264f/9fdc2c2be37970f6-38/s250x400/9245321c1b0d1436127eaf4b8a4431e1b2e07c6c.png"
+    },
+    {
+     "media_key": "de3d8f9ca28c2bab80d7dc0862ae264f:9fdc2c2be37970f6-38",
+     "type": "image/png",
+     "width": 100,
+     "height": 52,
+     "url": "https://64.media.tumblr.com/de3d8f9ca28c2bab80d7dc0862ae264f/9fdc2c2be37970f6-38/s100x200/d36975b669cda2d27981be78ceb51b0c83365d09.png"
+    },
+    {
+     "media_key": "de3d8f9ca28c2bab80d7dc0862ae264f:9fdc2c2be37970f6-38",
+     "type": "image/png",
+     "width": 75,
+     "height": 75,
+     "url": "https://64.media.tumblr.com/de3d8f9ca28c2bab80d7dc0862ae264f/9fdc2c2be37970f6-38/s75x75_c1/ef963981cf843c75c2ac54681b603b1a961d39dc.png",
+     "cropped": true
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "media": [
+    {
+     "media_key": "da7d105985655a9d6d85cc97cb4a4a70:9fdc2c2be37970f6-d2",
+     "type": "image/png",
+     "width": 681,
+     "height": 415,
+     "url": "https://64.media.tumblr.com/da7d105985655a9d6d85cc97cb4a4a70/9fdc2c2be37970f6-d2/s1280x1920/3d81a018f0040892ed4a0bbb66ac880e1228a078.png",
+     "has_original_dimensions": true
+    },
+    {
+     "media_key": "da7d105985655a9d6d85cc97cb4a4a70:9fdc2c2be37970f6-d2",
+     "type": "image/png",
+     "width": 640,
+     "height": 390,
+     "url": "https://64.media.tumblr.com/da7d105985655a9d6d85cc97cb4a4a70/9fdc2c2be37970f6-d2/s640x960/85d15bff976c27319f25a09be2f3a1b3a8b12e2b.png"
+    },
+    {
+     "media_key": "da7d105985655a9d6d85cc97cb4a4a70:9fdc2c2be37970f6-d2",
+     "type": "image/png",
+     "width": 540,
+     "height": 329,
+     "url": "https://64.media.tumblr.com/da7d105985655a9d6d85cc97cb4a4a70/9fdc2c2be37970f6-d2/s540x810/283aed835e3de72cf1b8ec875293b41a3b1096e4.png"
+    },
+    {
+     "media_key": "da7d105985655a9d6d85cc97cb4a4a70:9fdc2c2be37970f6-d2",
+     "type": "image/png",
+     "width": 500,
+     "height": 305,
+     "url": "https://64.media.tumblr.com/da7d105985655a9d6d85cc97cb4a4a70/9fdc2c2be37970f6-d2/s500x750/418433b9a7d411f1cb40b314a5ca2501828758a9.png"
+    },
+    {
+     "media_key": "da7d105985655a9d6d85cc97cb4a4a70:9fdc2c2be37970f6-d2",
+     "type": "image/png",
+     "width": 400,
+     "height": 244,
+     "url": "https://64.media.tumblr.com/da7d105985655a9d6d85cc97cb4a4a70/9fdc2c2be37970f6-d2/s400x600/4384a1fbaffce2c32de01c19e1b6b876f7e83230.png"
+    },
+    {
+     "media_key": "da7d105985655a9d6d85cc97cb4a4a70:9fdc2c2be37970f6-d2",
+     "type": "image/png",
+     "width": 250,
+     "height": 152,
+     "url": "https://64.media.tumblr.com/da7d105985655a9d6d85cc97cb4a4a70/9fdc2c2be37970f6-d2/s250x400/65d65ea26c44de097f517cbcce57a10bf956c70f.png"
+    },
+    {
+     "media_key": "da7d105985655a9d6d85cc97cb4a4a70:9fdc2c2be37970f6-d2",
+     "type": "image/png",
+     "width": 100,
+     "height": 61,
+     "url": "https://64.media.tumblr.com/da7d105985655a9d6d85cc97cb4a4a70/9fdc2c2be37970f6-d2/s100x200/446da29d2212346d59776b873b8f5b1d6d0a237e.png"
+    },
+    {
+     "media_key": "da7d105985655a9d6d85cc97cb4a4a70:9fdc2c2be37970f6-d2",
+     "type": "image/png",
+     "width": 75,
+     "height": 75,
+     "url": "https://64.media.tumblr.com/da7d105985655a9d6d85cc97cb4a4a70/9fdc2c2be37970f6-d2/s75x75_c1/52c2192b74e977cf9b562b7304511f2a4a38f841.png",
+     "cropped": true
+    }
+   ]
+  }
+ ],
+ "layout": [
+  {
+   "type": "rows",
+   "display": [
+    {
+     "blocks": [
+      0
+     ]
+    },
+    {
+     "blocks": [
+      3
+     ]
+    },
+    {
+     "blocks": [
+      2
+     ]
+    },
+    {
+     "blocks": [
+      1
+     ]
+    }
+   ]
+  }
+ ],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1789639920
+}

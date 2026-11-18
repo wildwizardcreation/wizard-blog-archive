@@ -1,0 +1,138 @@
+{
+ "type": "blocks",
+ "original_type": "regular",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 798174930458001408,
+ "id_string": "798174930458001408",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/798174930458001408",
+ "slug": "finally-got-permission-to-post-this-contribution",
+ "date": "2025-10-23 05:55:31 GMT",
+ "timestamp": 1761198931,
+ "state": "published",
+ "reblog_key": "WxIgu4Ay",
+ "tags": [
+  "+ potions +",
+  "+ mcyt +",
+  "NEW ART!?!?!?!???????",
+  "no not really ive been sitting on this for MONTHS its been TORTURE",
+  "but :3 yaknow"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNiJhzxEaa00",
+ "summary": "finally got permission to post this contribution for a zine that never ended up panning out fully :P (my prompt was identity...",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 88,
+ "content": [
+  {
+   "type": "image",
+   "media": [
+    {
+     "media_key": "bd621bb818797a1b12b019055306d959:4c1e96c5e927058f-63",
+     "type": "image/png",
+     "width": 358,
+     "height": 210,
+     "url": "https://64.media.tumblr.com/bd621bb818797a1b12b019055306d959/4c1e96c5e927058f-63/s400x600/bb6d657d779761635cd8b144412c1de349425a29.png",
+     "has_original_dimensions": true
+    },
+    {
+     "media_key": "bd621bb818797a1b12b019055306d959:4c1e96c5e927058f-63",
+     "type": "image/png",
+     "width": 250,
+     "height": 147,
+     "url": "https://64.media.tumblr.com/bd621bb818797a1b12b019055306d959/4c1e96c5e927058f-63/s250x400/edc2465f1b177f358abc67e82efefa9bebdfb8a7.png"
+    },
+    {
+     "media_key": "bd621bb818797a1b12b019055306d959:4c1e96c5e927058f-63",
+     "type": "image/png",
+     "width": 100,
+     "height": 59,
+     "url": "https://64.media.tumblr.com/bd621bb818797a1b12b019055306d959/4c1e96c5e927058f-63/s100x200/d32e6ed8aa19e6cf557bf92f80d9bef79586299e.png"
+    },
+    {
+     "media_key": "bd621bb818797a1b12b019055306d959:4c1e96c5e927058f-63",
+     "type": "image/png",
+     "width": 75,
+     "height": 75,
+     "url": "https://64.media.tumblr.com/bd621bb818797a1b12b019055306d959/4c1e96c5e927058f-63/s75x75_c1/258d86a8def4fc925fb2b80dc48af8bf99fd783f.png",
+     "cropped": true
+    }
+   ],
+   "colors": {
+    "c0": "010101",
+    "c1": "020202",
+    "c2": "000000",
+    "c3": "0c0c0c",
+    "c4": "060606"
+   }
+  },
+  {
+   "type": "text",
+   "text": "finally got permission to post this contribution for a zine that never ended up panning out fully :P (my prompt was identity porn!)",
+   "formatting": [
+    {
+     "type": "link",
+     "start": 31,
+     "end": 48,
+     "url": "https://wildwizardcreation.com/gallery/rpfzine2025.png"
+    }
+   ]
+  }
+ ],
+ "layout": [],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1761915540
+}

@@ -1,0 +1,468 @@
+{
+ "type": "blocks",
+ "original_type": "note",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 798873805729726464,
+ "id_string": "798873805729726464",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/798873805729726464",
+ "slug": "helllo-hope-this-isnt-weird-to-ask-but-i-was",
+ "date": "2025-10-30 23:03:50 GMT",
+ "timestamp": 1761865430,
+ "state": "published",
+ "reblog_key": "a6SDZCix",
+ "tags": [
+  "+ anons +",
+  "+ scrolls +",
+  "ive been admittedly slacking on my site recently buttttt in a perfect world i'd be able to get all of this up as easily accessible info sig",
+  "itll happen eventually!!! most likely!!!!"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNiMAtvYue00",
+ "summary": "helllo! hope this isnt weird to ask but i was looking through your media on twitter (because your art is incredible) and i saw...",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 22,
+ "asking_name": "Anonymous",
+ "asking_url": null,
+ "content": [
+  {
+   "type": "text",
+   "text": "helllo! hope this isnt weird to ask but i was looking through your media on twitter (because your art is incredible) and i saw this post about archived 2014 scar streams —> https://x.com/wilderwizard/status/1795656470362735046?s=46",
+   "formatting": [
+    {
+     "type": "bold",
+     "start": 127,
+     "end": 131
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "and im just curious if you have the links to these and any more? he looks so cute there and i'm obsessed (-:"
+  },
+  {
+   "type": "text",
+   "text": "| tweet link",
+   "formatting": [
+    {
+     "type": "link",
+     "start": 2,
+     "end": 12,
+     "url": "https://x.com/wilderwizard/status/1795656470362735046?s=46"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "hello hello anon!! not weird at all!! (and tysm for your interest in my work :D) unfortunately the website where i used to source my old scar vods is a little defunct ever since twitch implemented stricter storage rules :( but! there's alternatives!"
+  },
+  {
+   "type": "text",
+   "text": "my scarchive (<- mega drive link) houses a couple of txt files in the read me folder that link to most of the tools and sites i use for sourcing scar content! but for anyone not too keen on wrestling through mega, these are probably what you're looking for:",
+   "formatting": [
+    {
+     "type": "link",
+     "start": 0,
+     "end": 12,
+     "url": "https://mega.nz/folder/3NsHQACK#LDIbQecOtsOUaPHtj4cvLw"
+    },
+    {
+     "type": "small",
+     "start": 13,
+     "end": 33
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Piper Kells' Youtube Playlist | vods from roughly 2021 - present day",
+   "subtype": "unordered-list-item",
+   "formatting": [
+    {
+     "type": "link",
+     "start": 0,
+     "end": 29,
+     "url": "https://www.youtube.com/playlist?list=PLbDBNmYb17WuxFDZrY-6Ctts5DlF_jBl_"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "NOTscarsOfficialVODsChannel | vods from roughly March 2022 - September 2023",
+   "subtype": "unordered-list-item",
+   "formatting": [
+    {
+     "type": "link",
+     "start": 0,
+     "end": 27,
+     "url": "https://www.youtube.com/@notscarsofficialvodschanne758/videos"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "-> ScarredbytheGoodTimes | vods from roughly 2014 - present day <-",
+   "subtype": "unordered-list-item",
+   "formatting": [
+    {
+     "type": "bold",
+     "start": 0,
+     "end": 66
+    },
+    {
+     "type": "link",
+     "start": 3,
+     "end": 24,
+     "url": "https://www.youtube.com/@ScarredbytheGoodTimes/videos"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "as for the sources of the screenshots (fantastic finds btw he makes me so violent):"
+  },
+  {
+   "type": "image",
+   "media": [
+    {
+     "media_key": "a0b0330af6264697d2cc287bd4b2277e:6c579b6e9f870d8c-c0",
+     "type": "image/png",
+     "width": 511,
+     "height": 367,
+     "url": "https://64.media.tumblr.com/a0b0330af6264697d2cc287bd4b2277e/6c579b6e9f870d8c-c0/s540x810/4ee96f8a79f964b719a5bf68e8e3db898cafde56.png",
+     "has_original_dimensions": true
+    },
+    {
+     "media_key": "a0b0330af6264697d2cc287bd4b2277e:6c579b6e9f870d8c-c0",
+     "type": "image/png",
+     "width": 500,
+     "height": 359,
+     "url": "https://64.media.tumblr.com/a0b0330af6264697d2cc287bd4b2277e/6c579b6e9f870d8c-c0/s500x750/6a74faa9519e558de9deb71d3829e0d2798b30d7.png"
+    },
+    {
+     "media_key": "a0b0330af6264697d2cc287bd4b2277e:6c579b6e9f870d8c-c0",
+     "type": "image/png",
+     "width": 400,
+     "height": 287,
+     "url": "https://64.media.tumblr.com/a0b0330af6264697d2cc287bd4b2277e/6c579b6e9f870d8c-c0/s400x600/08b47f32b23b5baa58e21b4e6318809042973500.png"
+    },
+    {
+     "media_key": "a0b0330af6264697d2cc287bd4b2277e:6c579b6e9f870d8c-c0",
+     "type": "image/png",
+     "width": 250,
+     "height": 180,
+     "url": "https://64.media.tumblr.com/a0b0330af6264697d2cc287bd4b2277e/6c579b6e9f870d8c-c0/s250x400/60bed76dbcd14f42e0b38d4aa0110305a51a291b.png"
+    },
+    {
+     "media_key": "a0b0330af6264697d2cc287bd4b2277e:6c579b6e9f870d8c-c0",
+     "type": "image/png",
+     "width": 100,
+     "height": 72,
+     "url": "https://64.media.tumblr.com/a0b0330af6264697d2cc287bd4b2277e/6c579b6e9f870d8c-c0/s100x200/683ee62c1880bfb5efa1d10f39e1e040ffc0f86c.png"
+    },
+    {
+     "media_key": "a0b0330af6264697d2cc287bd4b2277e:6c579b6e9f870d8c-c0",
+     "type": "image/png",
+     "width": 75,
+     "height": 75,
+     "url": "https://64.media.tumblr.com/a0b0330af6264697d2cc287bd4b2277e/6c579b6e9f870d8c-c0/s75x75_c1/d6a40652b6e3495d9658262646947461f547aa23.png",
+     "cropped": true
+    }
+   ],
+   "colors": {
+    "c0": "030202",
+    "c1": "92451e",
+    "c2": "b45e34",
+    "c3": "713515",
+    "c4": "040201"
+   }
+  },
+  {
+   "type": "image",
+   "media": [
+    {
+     "media_key": "2997cc7f845f70c9c848a87768309ba4:6c579b6e9f870d8c-a2",
+     "type": "image/png",
+     "width": 517,
+     "height": 391,
+     "url": "https://64.media.tumblr.com/2997cc7f845f70c9c848a87768309ba4/6c579b6e9f870d8c-a2/s540x810/26cf22efa38f6e348492737bb152420072079d03.png",
+     "has_original_dimensions": true
+    },
+    {
+     "media_key": "2997cc7f845f70c9c848a87768309ba4:6c579b6e9f870d8c-a2",
+     "type": "image/png",
+     "width": 500,
+     "height": 378,
+     "url": "https://64.media.tumblr.com/2997cc7f845f70c9c848a87768309ba4/6c579b6e9f870d8c-a2/s500x750/9111ee20dff8a89440db25b2a7a6dbc01a3ed2eb.png"
+    },
+    {
+     "media_key": "2997cc7f845f70c9c848a87768309ba4:6c579b6e9f870d8c-a2",
+     "type": "image/png",
+     "width": 400,
+     "height": 303,
+     "url": "https://64.media.tumblr.com/2997cc7f845f70c9c848a87768309ba4/6c579b6e9f870d8c-a2/s400x600/38af0786ceffc9fda9d0be6c224d461b1dc454c7.png"
+    },
+    {
+     "media_key": "2997cc7f845f70c9c848a87768309ba4:6c579b6e9f870d8c-a2",
+     "type": "image/png",
+     "width": 250,
+     "height": 189,
+     "url": "https://64.media.tumblr.com/2997cc7f845f70c9c848a87768309ba4/6c579b6e9f870d8c-a2/s250x400/9943704da995c0b68fe3e9a2b89c6ef05aba3a4f.png"
+    },
+    {
+     "media_key": "2997cc7f845f70c9c848a87768309ba4:6c579b6e9f870d8c-a2",
+     "type": "image/png",
+     "width": 100,
+     "height": 76,
+     "url": "https://64.media.tumblr.com/2997cc7f845f70c9c848a87768309ba4/6c579b6e9f870d8c-a2/s100x200/64b794621140cd53ef9bbd8139af8acf3611e63b.png"
+    },
+    {
+     "media_key": "2997cc7f845f70c9c848a87768309ba4:6c579b6e9f870d8c-a2",
+     "type": "image/png",
+     "width": 75,
+     "height": 75,
+     "url": "https://64.media.tumblr.com/2997cc7f845f70c9c848a87768309ba4/6c579b6e9f870d8c-a2/s75x75_c1/3875f8ca374bee031438e65b4712b101ea755667.png",
+     "cropped": true
+    }
+   ],
+   "colors": {
+    "c0": "020403",
+    "c1": "9a5634",
+    "c2": "c1724c",
+    "c3": "65351f",
+    "c4": "261812"
+   }
+  },
+  {
+   "type": "image",
+   "media": [
+    {
+     "media_key": "8b421ecda19cf58cd12bb36fd9ab0609:6c579b6e9f870d8c-5e",
+     "type": "image/png",
+     "width": 518,
+     "height": 377,
+     "url": "https://64.media.tumblr.com/8b421ecda19cf58cd12bb36fd9ab0609/6c579b6e9f870d8c-5e/s540x810/8fbe6a4e153088597802675a139a5be8ece064dd.png",
+     "has_original_dimensions": true
+    },
+    {
+     "media_key": "8b421ecda19cf58cd12bb36fd9ab0609:6c579b6e9f870d8c-5e",
+     "type": "image/png",
+     "width": 500,
+     "height": 364,
+     "url": "https://64.media.tumblr.com/8b421ecda19cf58cd12bb36fd9ab0609/6c579b6e9f870d8c-5e/s500x750/2b613bacbf9e95a605b0abb39ce4d3b8a23f9dfb.png"
+    },
+    {
+     "media_key": "8b421ecda19cf58cd12bb36fd9ab0609:6c579b6e9f870d8c-5e",
+     "type": "image/png",
+     "width": 400,
+     "height": 291,
+     "url": "https://64.media.tumblr.com/8b421ecda19cf58cd12bb36fd9ab0609/6c579b6e9f870d8c-5e/s400x600/60462d46f2390ac9e2c67c2e93a20051a53294f4.png"
+    },
+    {
+     "media_key": "8b421ecda19cf58cd12bb36fd9ab0609:6c579b6e9f870d8c-5e",
+     "type": "image/png",
+     "width": 250,
+     "height": 182,
+     "url": "https://64.media.tumblr.com/8b421ecda19cf58cd12bb36fd9ab0609/6c579b6e9f870d8c-5e/s250x400/f2e0ca9702d34bdd2869d1c8a596eb9f3d9eed58.png"
+    },
+    {
+     "media_key": "8b421ecda19cf58cd12bb36fd9ab0609:6c579b6e9f870d8c-5e",
+     "type": "image/png",
+     "width": 100,
+     "height": 73,
+     "url": "https://64.media.tumblr.com/8b421ecda19cf58cd12bb36fd9ab0609/6c579b6e9f870d8c-5e/s100x200/2b172a0375cc6308effb5f9f288eb1f35ee0d1f9.png"
+    },
+    {
+     "media_key": "8b421ecda19cf58cd12bb36fd9ab0609:6c579b6e9f870d8c-5e",
+     "type": "image/png",
+     "width": 75,
+     "height": 75,
+     "url": "https://64.media.tumblr.com/8b421ecda19cf58cd12bb36fd9ab0609/6c579b6e9f870d8c-5e/s75x75_c1/f55d088970fd00a4f0321fae19073f0da89aec14.png",
+     "cropped": true
+    }
+   ],
+   "colors": {
+    "c0": "010202",
+    "c1": "a05e3f",
+    "c2": "ab6445",
+    "c3": "5d2b24",
+    "c4": "564b4d"
+   }
+  },
+  {
+   "type": "text",
+   "text": "would be "
+  },
+  {
+   "type": "text",
+   "text": "Lights and Landscaping! (Fishing Cabin Wrap-up) - Scarland VOD - November 3, 2014\nand",
+   "subtype": "unordered-list-item",
+   "formatting": [
+    {
+     "type": "link",
+     "start": 0,
+     "end": 81,
+     "url": "https://www.youtube.com/watch?v=YkixXQeOZ7w"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Pathways to Connect the Fishing Cabin! - Scarland VOD - November 1, 2014",
+   "subtype": "unordered-list-item",
+   "formatting": [
+    {
+     "type": "link",
+     "start": 0,
+     "end": 72,
+     "url": "https://www.youtube.com/watch?v=jphtG-EoUmE"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "all the screenshots i have of him from these (and similar) vods are all also available in the archive, scoured from my now long gone tumblr posts and priv tweets! hope that helps!! :D"
+  }
+ ],
+ "layout": [
+  {
+   "type": "ask",
+   "blocks": [
+    0,
+    1
+   ]
+  },
+  {
+   "type": "rows",
+   "display": [
+    {
+     "blocks": [
+      0
+     ]
+    },
+    {
+     "blocks": [
+      1
+     ]
+    },
+    {
+     "blocks": [
+      2
+     ]
+    },
+    {
+     "blocks": [
+      3
+     ]
+    },
+    {
+     "blocks": [
+      4
+     ]
+    },
+    {
+     "blocks": [
+      5
+     ]
+    },
+    {
+     "blocks": [
+      6
+     ]
+    },
+    {
+     "blocks": [
+      7
+     ]
+    },
+    {
+     "blocks": [
+      8
+     ]
+    },
+    {
+     "blocks": [
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "blocks": [
+      12
+     ]
+    },
+    {
+     "blocks": [
+      13
+     ]
+    },
+    {
+     "blocks": [
+      14
+     ]
+    },
+    {
+     "blocks": [
+      15
+     ]
+    }
+   ]
+  }
+ ],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1761915540
+}

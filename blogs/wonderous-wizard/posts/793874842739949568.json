@@ -1,0 +1,148 @@
+{
+ "type": "blocks",
+ "original_type": "note",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 793874842739949568,
+ "id_string": "793874842739949568",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/793874842739949568",
+ "slug": "wizard-do-you-like-superman-ive-seen-you",
+ "date": "2025-09-05 18:47:27 GMT",
+ "timestamp": 1757098047,
+ "state": "published",
+ "reblog_key": "a69nyGir",
+ "tags": [
+  "+ anons +",
+  "+ casting +",
+  "+ dc +",
+  "🐍 anon",
+  "my lil sister has also been a dc fan for yeeeeears so she's helping me catch up on a lot of stuff! :D",
+  "it's been really really fun indulging in a more mainstream kind of content. i'm still keeping up with hermit stuff ofc!",
+  "i'm just also in a comfortable enough spot to try some more stuff i've been putting off for a long time :]",
+  "pov wizard having his Boy Time reading superman comix skdhjfsd"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNi4QFQTea00",
+ "summary": "Wizard, do you like superman? I've seen you reblogged him a lot lol\nI've been reading lots of bronze age superman comics, he's...",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 5,
+ "asking_name": "Anonymous",
+ "asking_url": null,
+ "content": [
+  {
+   "type": "text",
+   "text": "Wizard, do you like superman? I've seen you reblogged him a lot lol"
+  },
+  {
+   "type": "text",
+   "text": "I've been reading lots of bronze age superman comics, he's really fun I like him"
+  },
+  {
+   "type": "text",
+   "text": "-🐍"
+  },
+  {
+   "type": "text",
+   "text": "WEHEHEH yes indeed i do anon!! i'll be completely real i'm definitely a newgen fan cause of corenswet's superman but i've been dipping my toes into a lot more DC stuff and i've been enjoying it WAY more than i thought i would!! "
+  },
+  {
+   "type": "text",
+   "text": "i've always been a little comic-averse cause i always got overwhelmed with just how much shit would be going on in a page at any given time. but recently i went looking for a source for my friend to read absolute superman on, ended up indulging in some reading of my own, and got immediately hooked. i love supes as a character in almost every single variant i've seen (cause he's like,,,, the blueprint for my favorite Genre of Guy LMAO) but the absolute series has a special kick that i fucking adore. though i'm actually heading to a comic shop today to see if i can pick up a physical copy of all-star superman cause i've been itching to get my hands on what is, objectively, the best superman comic series to date >:3"
+  }
+ ],
+ "layout": [
+  {
+   "type": "ask",
+   "blocks": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "type": "rows",
+   "display": [
+    {
+     "blocks": [
+      0
+     ]
+    },
+    {
+     "blocks": [
+      1
+     ]
+    },
+    {
+     "blocks": [
+      2
+     ]
+    },
+    {
+     "blocks": [
+      3
+     ]
+    },
+    {
+     "blocks": [
+      4
+     ]
+    }
+   ]
+  }
+ ],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1761915540
+}

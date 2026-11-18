@@ -1,0 +1,119 @@
+{
+ "type": "blocks",
+ "original_type": "regular",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 825803629947731968,
+ "id_string": "825803629947731968",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/825803629947731968",
+ "slug": "selfportait",
+ "date": "2026-08-24 05:01:52 GMT",
+ "timestamp": 1787547712,
+ "state": "published",
+ "reblog_key": "BICBVLq3",
+ "tags": [
+  "+ potions +"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNjrs0QnGq00",
+ "summary": "#selfportait",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 9,
+ "content": [
+  {
+   "type": "image",
+   "media": [
+    {
+     "media_key": "88e29613059bbc5482f6d96d5c1dc319:5a79fe1e3891c454-0b",
+     "type": "image/png",
+     "width": 179,
+     "height": 206,
+     "url": "https://64.media.tumblr.com/88e29613059bbc5482f6d96d5c1dc319/5a79fe1e3891c454-0b/s250x400/43d3c8a7526bc4b526ecda4cee23a591eb799551.png",
+     "has_original_dimensions": true
+    },
+    {
+     "media_key": "88e29613059bbc5482f6d96d5c1dc319:5a79fe1e3891c454-0b",
+     "type": "image/png",
+     "width": 100,
+     "height": 115,
+     "url": "https://64.media.tumblr.com/88e29613059bbc5482f6d96d5c1dc319/5a79fe1e3891c454-0b/s100x200/355ecf68eb1b7b18cbf77df67158c2a0e942855a.png"
+    },
+    {
+     "media_key": "88e29613059bbc5482f6d96d5c1dc319:5a79fe1e3891c454-0b",
+     "type": "image/png",
+     "width": 75,
+     "height": 75,
+     "url": "https://64.media.tumblr.com/88e29613059bbc5482f6d96d5c1dc319/5a79fe1e3891c454-0b/s75x75_c1/de40b521c4cef240bd4b98205bc67fa26c7a2dea.png",
+     "cropped": true
+    }
+   ],
+   "colors": {
+    "c0": "ffffff",
+    "c1": "000000",
+    "c2": "a9a9a9",
+    "c3": "232323",
+    "c4": "5c5c5c"
+   }
+  },
+  {
+   "type": "text",
+   "text": "#selfportait"
+  }
+ ],
+ "layout": [],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1787551260
+}

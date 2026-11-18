@@ -1,0 +1,104 @@
+{
+ "type": "blocks",
+ "original_type": "regular",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 813182665390981120,
+ "id_string": "813182665390981120",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/813182665390981120",
+ "slug": "hey-btw-if-anyone-has-a-sandor-clegane-scene-pack",
+ "date": "2026-04-06 21:37:02 GMT",
+ "timestamp": 1775511422,
+ "state": "published",
+ "reblog_key": "ey4viNJ6",
+ "tags": [
+  "+ casting +",
+  "+ GoT +",
+  "I do not WANT to sit through three seasons of some of the worst television ever put to screen I do NOT",
+  "but if I must I will 😔 I miss my dog"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNj90LDa8e00",
+ "summary": "hey btw if anyone has a Sandor Clegane scene pack (does not have to be high quality) of specifically seasons 6-8 (I stopped...",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 6,
+ "content": [
+  {
+   "type": "text",
+   "text": "hey btw if anyone has a Sandor Clegane scene pack (does not have to be high quality) of specifically seasons 6-8 (I stopped watching halfway thru Arya training with the faceless man back in highschool and do not care about anything past that) I know a certain wizard who would be extremely appreciative of a link in his dms <3 <3 (I will give you the worst head of your life but it will be head nonetheless)",
+   "formatting": [
+    {
+     "type": "small",
+     "start": 50,
+     "end": 84
+    },
+    {
+     "type": "small",
+     "start": 113,
+     "end": 243
+    },
+    {
+     "type": "small",
+     "start": 330,
+     "end": 407
+    }
+   ]
+  }
+ ],
+ "layout": [],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1775544600
+}

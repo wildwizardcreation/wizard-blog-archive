@@ -1,0 +1,157 @@
+{
+ "type": "blocks",
+ "original_type": "regular",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 798958997103427584,
+ "id_string": "798958997103427584",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/798958997103427584",
+ "slug": "if-youve-ever-gotten-a-kick-out-of-my-work-in-any",
+ "date": "2025-10-31 21:37:55 GMT",
+ "timestamp": 1761946675,
+ "state": "published",
+ "reblog_key": "mQhafOhE",
+ "tags": [
+  "+ casting +",
+  "+ complaining +",
+  "signal boost"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNiMUFcCSy00",
+ "summary": "if you've ever gotten a kick out of my work in any capacity and want to toss a dollar or two my way: i've set up a ko-fi to try...",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 48,
+ "content": [
+  {
+   "type": "text",
+   "text": "hey gang! terrible news!",
+   "formatting": [
+    {
+     "type": "strikethrough",
+     "start": 0,
+     "end": 24
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "i am officially out of a working tablet AND a working computer!",
+   "formatting": [
+    {
+     "type": "strikethrough",
+     "start": 0,
+     "end": 63
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "while my tablet's issue is simply the screen not turning on, my pc is officially cooked after almost 8 years of long and hard service. i knew it was dying fast but was really hoping for it to at least make it until the holidays when i'd get some extra cash. unfortunately after daily blue-screens since feburary it officially refuses to stay on for more than 10 minutes at a time, which makes me fresh out of a fully functioning machine.",
+   "formatting": [
+    {
+     "type": "strikethrough",
+     "start": 0,
+     "end": 437
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "EDIT: thanks to everyone's insane generosity i was able to get some replacement parts for my computer and at the moment, it's currently stable! my tablet's still down for the count screen wise but as long as the pen works i'll continue my work until i can pool together enough for something new. thank you all again! this seriously means the world <3",
+   "formatting": [
+    {
+     "type": "bold",
+     "start": 0,
+     "end": 1
+    },
+    {
+     "type": "bold",
+     "start": 4,
+     "end": 316
+    },
+    {
+     "type": "bold",
+     "start": 316,
+     "end": 350
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "if you've ever gotten a kick out of my work in any capacity and want to toss a dollar or two my way: i've set up a ko-fi to try and help with some of the costs",
+   "subtype": "heading2",
+   "formatting": [
+    {
+     "type": "link",
+     "start": 101,
+     "end": 159,
+     "url": "https://ko-fi.com/wildwizardcreation"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "no guilt tripping or shaming if you can't donate! i absolutely get it! i appreciate y'all so much and i'm sorry i can't offer anything in return right now."
+  },
+  {
+   "type": "text",
+   "text": "i've been considering a lot of different ways to try and monetize my work as of late, but the last thing i want to do is gatekeep or worse entirely exclude any amount of people from being able to see my stuff. and with the recent porn bans/general absurdity of my work it's not exactly like i can waltz into redbubble and offer stickers with scar's taint on them. if i manage to think of something: you all will be the first to know. ty again for being so patient with me through everything through this year. it means more than i can ever possibly describe. no matter what happens i'll be back on my feet soon :]"
+  }
+ ],
+ "layout": [],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1761975480
+}

@@ -1,0 +1,103 @@
+{
+ "type": "blocks",
+ "original_type": "regular",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 803816710737166336,
+ "id_string": "803816710737166336",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/803816710737166336",
+ "slug": "major-update-to-wildwizardcreationcom-btw-the",
+ "date": "2025-12-24 12:29:12 GMT",
+ "timestamp": 1766579352,
+ "state": "published",
+ "reblog_key": "TTca84Wa",
+ "tags": [
+  "+ casting +",
+  "+ site stuff +",
+  "blog jar will be back and better than ever soon!!",
+  "along with a proper sitemap and abt me and etc etc etc",
+  "lots of goals for 2026! and one of the major things holding me back was freaking out abt the site lmao",
+  "so baby steps!!"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNidkmea0m00",
+ "summary": "MAJOR update to wildwizardcreation.com btw!! the blog jar is temporarily out of commission, but the landing page is MUCH nicer...",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 27,
+ "content": [
+  {
+   "type": "text",
+   "text": "MAJOR update to wildwizardcreation.com btw!! the blog jar is temporarily out of commission, but the landing page is MUCH nicer and the gallery has had a much needed facelift + is now actually updated with my new work!! (it should work on mobile 99% of the time too :D)",
+   "formatting": [
+    {
+     "type": "link",
+     "start": 16,
+     "end": 38,
+     "url": "https://wildwizardcreation.com/"
+    },
+    {
+     "type": "link",
+     "start": 131,
+     "end": 142,
+     "url": "https://wildwizardcreation.com/gallery"
+    }
+   ]
+  }
+ ],
+ "layout": [],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1766641500
+}

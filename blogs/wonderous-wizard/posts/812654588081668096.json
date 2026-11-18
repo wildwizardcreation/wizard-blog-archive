@@ -1,0 +1,202 @@
+{
+ "type": "blocks",
+ "original_type": "note",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 812654588081668096,
+ "id_string": "812654588081668096",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/812654588081668096",
+ "slug": "item-the-bindle-rarity-common-what-video-game",
+ "date": "2026-04-01 01:43:28 GMT",
+ "timestamp": 1775007808,
+ "state": "published",
+ "reblog_key": "YmH73fmS",
+ "tags": [
+  "+ anons +"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNj78GhFim00",
+ "summary": "Item: The Bindle\nRarity: ⏶ Common\nWhat video game world would be your #1 travel destination?\nFeed your dashboard by answering my...",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 3,
+ "asking_name": "mysterious-cat-official",
+ "asking_url": "https://mysterious-cat-official.tumblr.com/",
+ "asking_avatar": [
+  {
+   "width": 512,
+   "height": 512,
+   "url": "https://64.media.tumblr.com/f19b3ea001c725153ff35fb905deecac/4270b94a2395a471-fd/s512x512u_c1/57b176312dffa4d332b600f3ade580a833d486c9.png",
+   "accessories": []
+  },
+  {
+   "width": 200,
+   "height": 200,
+   "url": "https://64.media.tumblr.com/f19b3ea001c725153ff35fb905deecac/4270b94a2395a471-fd/s200x200u_c1/58d43a894d6b63366b2aa4457022e236a0562f42.png",
+   "accessories": []
+  },
+  {
+   "width": 128,
+   "height": 128,
+   "url": "https://64.media.tumblr.com/f19b3ea001c725153ff35fb905deecac/4270b94a2395a471-fd/s128x128u_c1/810c47ee6eeda4dca86ed1f540f456bad6987570.png",
+   "accessories": []
+  },
+  {
+   "width": 96,
+   "height": 96,
+   "url": "https://64.media.tumblr.com/f19b3ea001c725153ff35fb905deecac/4270b94a2395a471-fd/s96x96u_c1/cec7baee0a84ef2a3c428fa5b565240eef43de3e.png",
+   "accessories": []
+  },
+  {
+   "width": 64,
+   "height": 64,
+   "url": "https://64.media.tumblr.com/f19b3ea001c725153ff35fb905deecac/4270b94a2395a471-fd/s64x64u_c1/321a031c257b80cb54dac3fb506dbc9165794c33.png",
+   "accessories": []
+  }
+ ],
+ "content": [
+  {
+   "type": "text",
+   "text": "Item: The Bindle\nRarity: ⏶ Common",
+   "formatting": [
+    {
+     "type": "bold",
+     "start": 0,
+     "end": 5
+    },
+    {
+     "type": "bold",
+     "start": 17,
+     "end": 24
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "text": "What video game world would be your #1 travel destination?"
+  },
+  {
+   "type": "text",
+   "text": "Feed your dashboard by answering my question, blogger."
+  },
+  {
+   "type": "text",
+   "text": "begone green beast stop interrupting my snake time"
+  }
+ ],
+ "layout": [
+  {
+   "type": "ask",
+   "blocks": [
+    0,
+    1,
+    2
+   ],
+   "attribution": {
+    "type": "blog",
+    "url": "https://mysterious-cat-official.tumblr.com/",
+    "blog": {
+     "name": "mysterious-cat-official",
+     "title": "i'm the best",
+     "description": "",
+     "url": "https://www.tumblr.com/blog/view/mysterious-cat-official",
+     "uuid": "t:JdhPSgVh5n0A9zWt0U_bnw",
+     "updated": 1789402861,
+     "tumblrmart_accessories": {
+      "badges": [
+       {
+        "product_group": "staff-member-badge",
+        "urls": [
+         "https://assets.tumblr.com/images/tumblrmart/badges/staff-member-badge/1.png?_v=739c51c1902ada48890dcc817ad998a6"
+        ],
+        "destination_url": "https://tumblr.com/tumblrmart/staff-member-badge"
+       }
+      ],
+      "blue_checkmark_count": 0,
+      "interaction_badge_icon_limit": 1
+     },
+     "can_show_badges": true
+    }
+   }
+  },
+  {
+   "type": "rows",
+   "display": [
+    {
+     "blocks": [
+      0
+     ]
+    },
+    {
+     "blocks": [
+      1
+     ]
+    },
+    {
+     "blocks": [
+      2
+     ]
+    },
+    {
+     "blocks": [
+      3
+     ]
+    }
+   ]
+  }
+ ],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1775026620
+}

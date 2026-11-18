@@ -1,0 +1,137 @@
+{
+ "type": "blocks",
+ "original_type": "regular",
+ "is_blocks_post_format": true,
+ "blog_name": "wonderous-wizard",
+ "blog": {
+  "name": "wonderous-wizard",
+  "title": "the freak from your dni",
+  "description": "23 - he/him - wiz <br />wildwizardcreation.com <br />my lovely wife!!! @orbweavermutt",
+  "url": "https://www.tumblr.com/blog/view/wonderous-wizard",
+  "uuid": "t:8mscfbunPylPAX0gU6xqgw",
+  "updated": 1795036823,
+  "avatar": [
+   {
+    "width": 512,
+    "height": 512,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s512x512u_c1/fed09842560b40f8293c96f396d0fe1c961b9fb4.png",
+    "accessories": []
+   },
+   {
+    "width": 200,
+    "height": 200,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s200x200u_c1/8f16990078b1ed25bb13d159d7a5be013692ef12.png",
+    "accessories": []
+   },
+   {
+    "width": 128,
+    "height": 128,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s128x128u_c1/50e0ed2dd6697dd72618c256d071ae5ba1db4222.png",
+    "accessories": []
+   },
+   {
+    "width": 96,
+    "height": 96,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s96x96u_c1/6af79f0dff5602a2acc40845f8da7ef119345898.png",
+    "accessories": []
+   },
+   {
+    "width": 64,
+    "height": 64,
+    "url": "https://64.media.tumblr.com/929768d52e1a871ce3505b8ac59eb7d8/90ecd27d4b54fb4e-3d/s64x64u_c1/cc30715de92a8f941193a76658c0d52c254ca4e0.png",
+    "accessories": []
+   }
+  ],
+  "tumblrmart_accessories": {},
+  "can_show_badges": true
+ },
+ "id": 801770121444081664,
+ "id_string": "801770121444081664",
+ "is_blazed": false,
+ "is_blaze_pending": false,
+ "can_blaze": false,
+ "post_url": "https://www.tumblr.com/blog/view/wonderous-wizard/801770121444081664",
+ "slug": "what-super-self-indulgent-thing-should-i-draw-for",
+ "date": "2025-12-01 22:19:32 GMT",
+ "timestamp": 1764627572,
+ "state": "published",
+ "reblog_key": "K0NSlXo5",
+ "tags": [
+  "+ casting +"
+ ],
+ "short_url": "https://tmblr.co/ZRyQYNiWTQrmCa00",
+ "summary": "what super self indulgent thing should i draw for my birthday :]\ngale bg3 tavern gangbang\ngale bg3 bridal lingerie\ngale bg3 more...",
+ "should_open_in_legacy": false,
+ "recommended_source": null,
+ "recommended_color": null,
+ "note_count": 4,
+ "content": [
+  {
+   "type": "poll",
+   "client_id": "9c823792-3090-4a82-bc23-09f51d43bd18",
+   "question": "what super self indulgent thing should i draw for my birthday :]",
+   "answers": [
+    {
+     "client_id": "a051ae67-b7bd-4bd7-948b-86b3d6d98233",
+     "answer_text": "gale bg3 tavern gangbang"
+    },
+    {
+     "client_id": "fcacaeb7-25f2-41cc-b3f3-ea154d062e5b",
+     "answer_text": "gale bg3 bridal lingerie"
+    },
+    {
+     "client_id": "bad8c411-6196-4b98-b2f5-2711b268bf1d",
+     "answer_text": "gale bg3 more anime girl stuff"
+    },
+    {
+     "client_id": "28baf095-9a5e-4c75-8dde-b3317a96487a",
+     "answer_text": "gale bg3 beach episode"
+    },
+    {
+     "client_id": "c01f40bb-3816-4df3-9875-54f7fdb79eb1",
+     "answer_text": "gale bg3 modern clothes (jeans. i want to draw him in jeans)"
+    },
+    {
+     "client_id": "22c4b17f-0c8d-4074-9262-f785014865cc",
+     "answer_text": "gale bg3 caught bathing pin-up (again) (bathhouse edition)"
+    },
+    {
+     "client_id": "4ec93dcd-886e-4515-86aa-9a691823d23b",
+     "answer_text": "idk who gale bg3 is / nuance / bald / results"
+    }
+   ],
+   "settings": {
+    "multiple_choice": false,
+    "close_status": "closed-after",
+    "expire_after": 259200,
+    "source": "tumblr"
+   },
+   "created_at": "2025-12-01 22:19:32 GMT",
+   "timestamp": 1764627572
+  }
+ ],
+ "layout": [],
+ "trail": [],
+ "can_like": false,
+ "interactability_reblog": "everyone",
+ "can_reblog": false,
+ "interactability_blaze": "noone",
+ "can_send_in_message": true,
+ "can_reply": false,
+ "display_avatar": true,
+ "_archived": 1764654120,
+ "_polls": {
+  "9c823792-3090-4a82-bc23-09f51d43bd18": {
+   "results": {
+    "a051ae67-b7bd-4bd7-948b-86b3d6d98233": 12,
+    "fcacaeb7-25f2-41cc-b3f3-ea154d062e5b": 8,
+    "bad8c411-6196-4b98-b2f5-2711b268bf1d": 1,
+    "28baf095-9a5e-4c75-8dde-b3317a96487a": 0,
+    "c01f40bb-3816-4df3-9875-54f7fdb79eb1": 5,
+    "22c4b17f-0c8d-4074-9262-f785014865cc": 2,
+    "4ec93dcd-886e-4515-86aa-9a691823d23b": 9
+   },
+   "checked": 1795038933
+  }
+ }
+}
