@@ -6,6 +6,11 @@ on:
     - cron: '30 5 * * *'
   workflow_dispatch:
     # allows running this workflow manually from the actions tab
+    inputs:
+      backfill:
+        description: 'page through the whole blog history and fetch raw data for older posts'
+        type: boolean
+        default: false
 
 jobs:
   build:
@@ -23,14 +28,21 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # install both requests (for api calls) and python-dotenv (for the import)
-          pip install requests python-dotenv
+          # requests (for api calls), python-dotenv (for local runs) and boto3 (for the media bucket)
+          pip install requests python-dotenv boto3
 
       - name: Run Tumblr Archiver
         env:
           TUMBLR_API_KEY: ${{ secrets.TUMBLR_API_KEY }}
           BLOG_IDENTIFIER: ${{ vars.BLOG_IDENTIFIER }}
           TAGS_TO_ARCHIVE: ${{ vars.TAGS_TO_ARCHIVE }}
+          # the panic button: set this to "mirror" to serve every image from the bucket
+          MEDIA_SOURCE: ${{ vars.MEDIA_SOURCE }}
+          BACKFILL: ${{ inputs.backfill }}
+          B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
+          B2_APP_KEY: ${{ secrets.B2_APP_KEY }}
+          B2_BUCKET: ${{ secrets.B2_BUCKET }}
+          B2_ENDPOINT: ${{ secrets.B2_ENDPOINT }}
         run: python post_archiver.py
 
       - name: Commit and push if changed
@@ -41,3 +53,13 @@ jobs:
           git add -A
           # only commit and push if files have actually changed
           git diff --quiet && git diff --staged --quiet || (git commit -m "Automated archive update [$(date +'%Y-%m-%d %H:%M:%S utc')]"; git push)
+
+      - name: Keep the schedule alive
+        run: |
+          # github turns off scheduled workflows after 60 days without repo activity,
+          # so a quiet stretch gets an empty commit before it gets there
+          last_commit=$(git log -1 --format=%ct)
+          if [ $(( $(date +%s) - last_commit )) -gt $(( 50 * 86400 )) ]; then
+            git commit --allow-empty -m "Keepalive [$(date +'%Y-%m-%d')]"
+            git push
+          fi
